@@ -47,7 +47,6 @@
 
 - name: Beauty Tips
   banner: https://i.imgur.com/FDfIGgi.png
-  author_avatar: https://picsum.photos/300/300/?image=937
   links:
     - title: Play Store
       icon: playstore
