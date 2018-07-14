@@ -1,47 +1,62 @@
 - name: BookInHand
-  banner: https://picsum.photos/1920/1080/?image=99
-  author_avatar: https://picsum.photos/300/300/?image=1024
+  banner: https://i.imgur.com/Rk5GVoU.png
   links:
     - title: Free Version
-      type: play
+      icon: playstore
       url: https://lnkd.in/dBGKWjk
-    - type: Paid Version
-      type: play
+    - title: Paid Version
+      icon: github
       url: https://lnkd.in/d38F39k
   description: |
     Have you ever wondered about how is the book you just have in your hand and what do
     people think about it? Maybe you always wanted a honest review by someone like you but
     you never could in that moment.
+
     There Book in Hand comes!
+
     What can you do?
+
     Simple: take a photo of the book you have in your hand, the title, the author, the ISBN code
     or whatever you want. We will do the rest for you!
     
     Check it out!
   author: Jonathan Imperato
+  author_avatar: https://i.imgur.com/ka5sjM7.png
 
 - name: Trippo
-  banner: https://picsum.photos/1920/1080/?image=405
-  author_avatar: https://picsum.photos/300/300/?image=120
+  banner: https://i.imgur.com/V5hPFCO.png
   links:
     - title: Play Store
-      type: play
+      icon: playstore
       url: https://play.google.com/store/apps/details?id=com.nuhkoca.trippo
   description: |
     Trippo is your smart travel guide - it’s free and works offline, too! Our awesome algorithms crunch through millions of websites and reviews to deliver unique recommendations across 50,000 destinations worldwide! Personalize your trip by picking your favorite hotels, sights, activities and restaurants and book them seamlessly in our app! You can skim through tours, locations, POIs, city walks, articles and so on. This guide will save you from a serious headache!
   author: Nuh Koca
+  author_location: Bielefeld Area, Germany
+  author_avatar: https://i.imgur.com/09D3F7I.jpg
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/nuhkoca/
+    - title: GitHub
+      icon: github
+      url: https://github.com/nuhkoca
+    - title: Medium
+      icon: medium
+      url: https://medium.com/@nuhkocaa
 
 - name: Beauty Tips
-  banner: https://picsum.photos/1920/1080/?image=898
+  banner: https://i.imgur.com/FDfIGgi.png
   author_avatar: https://picsum.photos/300/300/?image=937
   links:
     - title: Play Store
-      type: play
+      icon: playstore
       url: https://play.google.com/store/apps/details?id=com.nuhkoca.trippo
   description: |
     Beauty tips are for you if you are looking for better and healthier ways of taking care. All the tips are of DIY (Do it yourself) kind and they are easy to follow. 
     Beauty tips present recipes for homemade cosmetics. They show how to use natural ingredients in your beauty rituals. They explain how to improve the health and beauty of your hair, face, and body. The tips are always with you on your mobile, so you can check them wherever you are. 
     They show how to get the best out of what Mother Nature gave us. Do not hesitate and check the Beauty Tips for yourself!
   author: Jagoda Sylwester
+  author_avatar: https://i.imgur.com/FqrWuEH.jpg
   
   

@@ -14,11 +14,68 @@ $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 
+
+.mdl-layout__header-row {
+    padding: 0 24px;
+}
+
+.mdl-navigation__link--icon > span, .mdl-navigation__link--icon > .material-icons {
+    margin-right: 8px;
+}
+
+.author {
+    border-top: 1px solid rgba(0, 0, 0, .1);
+}
+
+.author-avatar {
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    float: left;
+    width: 40px;
+    height: 40px;
+    margin-right: 16px;
+}
+
+.svg-icon {
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    fill: #828282;
+    padding-right: 5px;
+    vertical-align: text-top;
+}
+
+.social-media-links { 
+    margin: 0;
+    display: flex;
+    flex-direciton: row;
+    list-style: none;
+    padding: 0;
+}
+
+.title-with-links {
+    display: flex;
+    flex-direciton: row;
+    align-items: center;
+}
+
+.title-with-links .mdl-card__title-text {
+    flex: 1;
+}
+
+.google-play-icon {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    margin-right: 5px;
+    vertical-align: text-top;
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
         "layout",
-        "syntax-highlighting",
-        "post",
         "search"
 ;
+
