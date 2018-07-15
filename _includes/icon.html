@@ -1,3 +1,5 @@
+{% if include.icon == "web" %}<div class="icon" style="background: url('{{ '/assets/Network_icon.png' | relative_url }}') center/cover;"></div>{% endif %}
+{% if include.icon == "playstore" %}<div class="icon" style="background: url('{{ '/assets/Google_play_icon.png' | relative_url }}') center/cover;"></div>{% endif %}
 {% if include.icon == "medium" %}<svg class="icon"><use xlink:href="{{ '/assets/social-icons.svg#medium' | relative_url }}"></use></svg>{% endif %}
 {% if include.icon == "dribbble" %}<svg class="icon"><use xlink:href="{{ '/assets/social-icons.svg#dribbble' | relative_url }}"></use></svg>{% endif %}
 {% if include.icon == "facebook" %}<svg class="icon"><use xlink:href="{{ '/assets/social-icons.svg#facebook' | relative_url }}"></use></svg>{% endif %}
