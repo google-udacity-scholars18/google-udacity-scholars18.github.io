@@ -54,7 +54,6 @@ ul.media-links {
     padding: 0 40px;
 }
 
-
 .docs-navigation {
     width: 100%;
     height: 54px;
@@ -75,6 +74,24 @@ ul.media-links {
 	&.is-active {
 	    opacity: 1;
 	    border-bottom-color: $accent-color;
+	}
+    }
+}
+
+header.mdl-layout__header {
+    background-color: #2196F3;
+}
+
+@media screen and (min-width: 1024px) {
+    .main-page header {
+	position: relative;
+
+	height: 440px;
+	background: url('Material_background.jpg') top/cover no-repeat;
+
+	.docs-navigation {
+	    position: absolute;
+	    bottom: 0;
 	}
     }
 }
@@ -108,10 +125,6 @@ ul.media-links {
     flex: 1;
 }
 
-footer > div {
-    text-align: center;
-}
-
 .github_ribbon img {
     position: absolute; 
     top: 0; 
@@ -126,8 +139,6 @@ footer > div {
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "base",
-        "layout",
-        "search"
+        "layout"
 ;
 

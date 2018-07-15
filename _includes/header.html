@@ -1,7 +1,7 @@
 <header class="mdl-layout__header">
   <div class="mdl-layout__header-row">
     <!-- Title -->
-    <span class="mdl-layout-title">{{ site.title }}</span>
+    <span class="mdl-layout-title">{{ page.title | default: site.title }}</span>
     <!-- Add spacer, to align navigation to the right -->
     <div class="mdl-layout-spacer"></div>
 
