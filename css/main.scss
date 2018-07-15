@@ -14,6 +14,28 @@ $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 
+.icon {
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    margin-right: 5px;
+    vertical-align: text-top;
+}
+
+svg.icon {
+    fill: #828282;
+}
+
+.media-links { 
+    display: flex;
+    flex-direciton: row;
+}
+
+ul.media-links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
 
 .mdl-layout__header-row {
     padding: 0 24px;
@@ -37,22 +59,6 @@ $grey-color-dark:  darken($grey-color, 25%);
     margin-right: 16px;
 }
 
-.svg-icon {
-    width: 16px;
-    height: 16px;
-    display: inline-block;
-    fill: #828282;
-    padding-right: 5px;
-    vertical-align: text-top;
-}
-
-.social-media-links { 
-    margin: 0;
-    display: flex;
-    flex-direciton: row;
-    list-style: none;
-    padding: 0;
-}
 
 .title-with-links {
     display: flex;
@@ -64,13 +70,6 @@ $grey-color-dark:  darken($grey-color, 25%);
     flex: 1;
 }
 
-.google-play-icon {
-    display: inline-block;
-    width: 16px;
-    height: 16px;
-    margin-right: 5px;
-    vertical-align: text-top;
-}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
