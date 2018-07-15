@@ -1,0 +1,144 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+//
+// Main sass file, to import all styles
+//
+
+@charset "utf-8";
+
+$spacing-unit:     30px;
+$super-search:     rgba(0, 191, 255, 0.85);
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+$accent-color: #ff4081;
+
+html > body {
+    font-family: 'Roboto','Helvetica','Arial',sans-serif!important;
+    background-color: #FAFAFA;
+}
+
+.icon {
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    margin-right: 5px;
+    vertical-align: text-top;
+}
+
+svg.icon {
+    fill: #828282;
+}
+
+.media-links { 
+    display: flex;
+    flex-direciton: row;
+}
+
+ul.media-links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.mdl-layout__header {
+    display: flex;
+}
+
+.mdl-layout__content {
+    overflow: visible;
+}
+
+.mdl-layout__header-row {
+    padding: 0 40px;
+}
+
+.docs-navigation {
+    width: 100%;
+    height: 54px;
+    flex-shrink: 0;
+    padding: 0 16px 0 24px;
+    user-select: none;
+
+    .mdl-navigation__link {
+	font-weight: 500;
+	font-size: 13px;
+	text-transform: uppercase;
+	line-height: 64px;
+	padding: 0 16px;
+	color: #fff;
+	box-sizing: border-box;
+	border-bottom: 3px solid transparent;
+
+	&.is-active {
+	    opacity: 1;
+	    border-bottom-color: $accent-color;
+	}
+    }
+}
+
+header.mdl-layout__header {
+    background-color: #2196F3;
+}
+
+@media screen and (min-width: 1024px) {
+    .main-page header {
+	position: relative;
+
+	height: 440px;
+	background: url('Material_background.jpg') top/cover no-repeat;
+
+	.docs-navigation {
+	    position: absolute;
+	    bottom: 0;
+	}
+    }
+}
+
+.mdl-navigation__link--icon > span, .mdl-navigation__link--icon > .material-icons {
+    margin-right: 8px;
+}
+
+.author {
+    border-top: 1px solid rgba(0, 0, 0, .1);
+}
+
+.author-avatar {
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    float: left;
+    width: 40px;
+    height: 40px;
+    margin-right: 16px;
+}
+
+
+.title-with-links {
+    display: flex;
+    flex-direciton: row;
+    align-items: center;
+}
+
+.title-with-links .mdl-card__title-text {
+    flex: 1;
+}
+
+.github_ribbon img {
+    position: absolute; 
+    top: 0; 
+    right: 0; 
+    border: 0;
+    z-index: 1000;
+    
+    @media screen and (max-width: 1024px) {
+	display: none;
+    }
+}
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "layout"
+;
+
