@@ -1,3 +1,33 @@
+# Android Developer Projects
+#
+# Entry Example: 
+#
+# - name: ProtoFitness
+#   banner: https://i.imgur.com/pu9Fjv5.jpg
+#   links:
+#     - title: Play Store
+#       icon: playstore
+#       url: https://play.google.com/store/apps/details?id=com.watabou.protofitnessss
+#     - title: Github
+#       icon: playstore
+#       url: https://github.com/myname/myapp
+#   description: |
+#     Markdown supported
+#
+#     Multiline format
+#   author: John Smith
+#   author_avatar: https://i.imgur.com/EPZaPGK.jpg
+#   author_location: St Petersburg, Russia
+#   auhtor_links:
+#     - title: LinkedIn
+#       icon: linkedin
+#       url: https://www.linkedin.com/in/myname/
+#     - title: Github
+#       icon: github
+#       url: https://github.com/myname/myapp
+#      
+# v- Add new projects below this line -v
+
 - name: BookInHand
   banner: https://i.imgur.com/Rk5GVoU.png
   links:
@@ -32,8 +62,6 @@
   description: |
     Trippo is your smart travel guide - it’s free and works offline, too! Our awesome algorithms crunch through millions of websites and reviews to deliver unique recommendations across 50,000 destinations worldwide! Personalize your trip by picking your favorite hotels, sights, activities and restaurants and book them seamlessly in our app! You can skim through tours, locations, POIs, city walks, articles and so on. This guide will save you from a serious headache!
   author: Nuh Koca
-  author_location: Bielefeld Area, Germany
-  author_avatar: https://i.imgur.com/09D3F7I.jpg
   author_links:
     - title: LinkedIn
       icon: linkedin
@@ -44,6 +72,8 @@
     - title: Medium
       icon: medium
       url: https://medium.com/@nuhkocaa
+  author_location: Bielefeld Area, Germany
+  author_avatar: https://i.imgur.com/09D3F7I.jpg
 
 - name: Beauty Tips
   banner: https://i.imgur.com/FDfIGgi.png

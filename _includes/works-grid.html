@@ -11,7 +11,7 @@
 	<ul class="media-links">
 	  {% for link in work.links %}
 	  <li><a href="{{ link.url }}" title="{{ link.title }}">
-	      {% include project-icon.html icon=link.icon %}
+	      {% include icon.html icon=link.icon %}
 	  </a></li>
 	  {% endfor %}
 	</ul>
@@ -38,7 +38,7 @@
 	<ul class="media-links">
 	  {% for link in work.author_links %}
 	  <li><a href="{{ link.url }}" title="{{ link.title }}">
-	      {% include social-icon.html icon=link.icon %}
+	      {% include icon.html icon=link.icon %}
 	  </a></li>
 	  {% endfor %}
 	</ul>
