@@ -1,12 +1,20 @@
-  <header class="mdl-layout__header">
+<header class="mdl-layout__header">
+  <div class="mdl-layout__header-row">
+    <!-- Title -->
+    <span class="mdl-layout-title">{{ site.title }}</span>
+    <!-- Add spacer, to align navigation to the right -->
+    <div class="mdl-layout-spacer"></div>
 
-    <div class="mdl-layout__header-row">
-      <!-- Title -->
-      <span class="mdl-layout-title">{{ site.title }}</span>
-      <!-- Add spacer, to align navigation to the right -->
-      <div class="mdl-layout-spacer"></div>
+  </div>
+  <!-- Tabs -->
 
-      <a href="{{ site.github_url }}" class="mdl-navigation__link mdl-navigation__link--icon github"><i class="material-icons">link</i><span>GitHub</span></a>
-
-    </div>
-  </header>
+  <div class="mdl-navigation docs-navigation">
+    {% for node in site.data.menu_items %}
+    {% if page.url == node.url %}
+    <a href="{{ node.url | prepend: site.baseurl }}" class="mdl-navigation__link is-active">{{ node.title }}</a>
+    {% else %}
+    <a href="{{ node.url | prepend: site.baseurl }}" class="mdl-navigation__link">{{ node.title }}</a>
+    {% endif %}
+    {% endfor %}
+  </div>
+</header>
