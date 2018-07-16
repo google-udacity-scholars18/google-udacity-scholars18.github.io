@@ -1,6 +1,6 @@
-# Udacity Developer Scholarship Projects
+# Google Developer Scholarship Projects
 
-> Showcase of student project built for 2018 Udacity Developer Scholarship
+> Showcase of student project built for 2017-2018 Google Developer Scholarship
 
 We built this website to show some of the final projects built by the students of 2018 Google Scholarship by Udacity.
 
