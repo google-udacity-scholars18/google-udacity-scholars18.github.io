@@ -10,7 +10,7 @@
         <h2 class="mdl-card__title-text">{{ work.name }}</h2>
 	<ul class="media-links">
 	  {% for link in work.links %}
-	  <li><a href="{{ link.url }}" title="{{ link.title }}">
+	  <li><a href="{{ link.url }}" title="{{ link.title }}" target="_blank">
 	      {% include icon.html icon=link.icon %}
 	  </a></li>
 	  {% endfor %}
@@ -37,7 +37,7 @@
       <span class="mdl-list__item-secondary-content">
 	<ul class="media-links">
 	  {% for link in work.author_links %}
-	  <li><a href="{{ link.url }}" title="{{ link.title }}">
+	  <li><a href="{{ link.url }}" title="{{ link.title }}" target="_blank">
 	      {% include icon.html icon=link.icon %}
 	  </a></li>
 	  {% endfor %}
