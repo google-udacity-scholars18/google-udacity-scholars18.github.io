@@ -91,7 +91,9 @@ header.mdl-layout__header {
 	position: relative;
 
 	height: 440px;
-	background: url('Material_background.jpg') top/cover no-repeat;
+	background-image: url('Material_background.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
 
 	.docs-navigation {
 	    position: absolute;
