@@ -42,6 +42,10 @@ ul.media-links {
     padding: 0;
 }
 
+.mdl-layout {
+    min-height: 100vh;
+}
+
 .mdl-layout__header {
     display: flex;
 }
