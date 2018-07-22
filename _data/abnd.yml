@@ -27,3 +27,27 @@
 #       url: https://github.com/myname/myapp
 #      
 # v- Add new projects below this line -v
+- name: NewsReader
+  banner: https://i.imgur.com/OV8xQfZ.jpg
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/OyaCanli/NewsReader
+    - title: Youtube
+      icon: youtube
+      url: https://www.youtube.com/watch?v=e50ZY0AXcxQ
+  description: |
+    An app for reading news(Guardian), with notifications and offline reading options. 
+    User can choose which sections to follow and sort them, bookmark and share the articles s/he liked.
+    
+  author: Oya Canli
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/OyaCanli
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/oya-canli-2290a4159/
+
+  author_location: Namur, Belgium
+  author_avatar: https://i.imgur.com/MHb0Tsp.jpg
