@@ -66,6 +66,9 @@
     - title: Play Store
       icon: playstore
       url: https://play.google.com/store/apps/details?id=com.nuhkoca.trippo
+    - title: Github
+      icon: github
+      url: https://github.com/nuhkoca/Trippo-The_Travel_Guide
   description: |
     Trippo is your smart travel guide - it’s free and works offline, too! Our awesome algorithms crunch through millions of websites and reviews to deliver unique recommendations across 50,000 destinations worldwide! Personalize your trip by picking your favorite hotels, sights, activities and restaurants and book them seamlessly in our app! You can skim through tours, locations, POIs, city walks, articles and so on. This guide will save you from a serious headache!
   author: Nuh Koca
