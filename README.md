@@ -12,6 +12,8 @@ To add your final project to the website, create a new entry in the file which c
 |-|-|
 |ABND|[`_data/abnd.yml`](_data/abnd.yml)|
 |AND|[`_data/and.yml`](_data/and.yml)|
+|FEND|[`_data/fend.yml`](_data/fend.yml)|
+|MWS|[`_data/mws.yml`](_data/mws.yml)|
 
 You can edit this file on github by clicking on 🖋 icon and submitting submitting your changes via PR. 
 
