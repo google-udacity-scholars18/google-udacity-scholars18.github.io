@@ -52,6 +52,10 @@
     Check it out!
   author: Jonathan Imperato
   author_avatar: https://i.imgur.com/ka5sjM7.png
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/jonathanimperato
 
 - name: Trippo
   banner: https://i.imgur.com/V5hPFCO.png
@@ -87,5 +91,7 @@
     They show how to get the best out of what Mother Nature gave us. Do not hesitate and check the Beauty Tips for yourself!
   author: Jagoda Sylwester
   author_avatar: https://i.imgur.com/FqrWuEH.jpg
-  
-  
+  author_links:
+    - title: Medium
+      icon: medium
+      url: https://medium.com/@jagoda.sylwester
