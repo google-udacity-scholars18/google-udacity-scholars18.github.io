@@ -31,12 +31,9 @@
 - name: BookInHand
   banner: https://i.imgur.com/Rk5GVoU.png
   links:
-    - title: Free Version
+    - title: Play Store
       icon: playstore
       url: https://lnkd.in/dBGKWjk
-    - title: Paid Version
-      icon: playstore
-      url: https://lnkd.in/d38F39k
     - title: GitHub
       icon: github
       url: https://github.com/JonathanImperato/Capstone-Project
