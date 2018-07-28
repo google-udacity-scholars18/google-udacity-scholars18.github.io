@@ -85,19 +85,23 @@
   author_location: Bielefeld Area, Germany
   author_avatar: https://i.imgur.com/09D3F7I.jpg
 
-- name: Beauty Tips
-  banner: https://i.imgur.com/FDfIGgi.png
+- name: Cosmetique Organique
+  banner: https://i.imgur.com/9B4FiOx.png
   links:
     - title: Play Store
       icon: playstore
       url: https://play.google.com/store/apps/details?id=com.blogspot.android_czy_java.beautytips
   description: |
-    Beauty tips are for you if you are looking for better and healthier ways of taking care. All the tips are of DIY (Do it yourself) kind and they are easy to follow. 
-    Beauty tips present recipes for homemade cosmetics. They show how to use natural ingredients in your beauty rituals. They explain how to improve the health and beauty of your hair, face, and body. The tips are always with you on your mobile, so you can check them wherever you are. 
+    Cosmetique Organique is for you if you are looking for better and healthier ways of taking care. It contains recipes for homemade, organic cosmetics that are free from chemicals and preservatives.
+    Each recipe is easy to follow and you can learn more about natural ingredients that are used. The ingredients of cosmetic are always natural, and the most popular are: coconut oil, Lavender essential oil, shea butter.
     They show how to get the best out of what Mother Nature gave us. Do not hesitate and check the Beauty Tips for yourself!
   author: Jagoda Sylwester
   author_avatar: https://i.imgur.com/FqrWuEH.jpg
+  author_location: Katowice, Poland
   author_links:
     - title: Medium
       icon: medium
       url: https://medium.com/@jagoda.sylwester
+    - title: Facebook
+      icon: facebook
+      url: https://www.facebook.com/Cosmetique-Organique-292002408240734/
