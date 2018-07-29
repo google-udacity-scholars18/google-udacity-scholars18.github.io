@@ -1,6 +1,6 @@
 # Frontend Developer Projects
 #
-# Entry Example: 
+# Entry Example:
 #
 # - name: ProtoFitness
 #   banner: https://i.imgur.com/pu9Fjv5.jpg
@@ -25,5 +25,28 @@
 #     - title: Github
 #       icon: github
 #       url: https://github.com/myname/myapp
-#      
+#
 # v- Add new projects below this line -v
+
+- name: Gwent Memory Game
+  banner: https://i.imgur.com/wUOfliR.jpg
+  links:
+    - title: Live Page
+      icon: web
+      url: https://cedric-f.github.io/Memory-Game-V2
+    - title: Github Repo
+      icon: github
+      url: https://github.com/Cedric-F/Cedric-F.github.io/tree/master/Memory-Game-v2
+  description: |
+    A Fan Art inspired by the great *The Witcher* Universe and its Gwent card game.
+    Select your faction and try to find all the matching cards in the shortest time!
+  author: Cedric Fontaine
+  author_avatar: https://i.imgur.com/UsuKnXY.png
+  author_location: Paris, France
+  auhtor_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/Cedric-F
+    - title: Github Profile
+      icon: github
+      url: https://github.com/Cedric-F/
