@@ -1,15 +1,15 @@
-# Frontend Developer Projects
+# Front-end Developer Student Projects
 #
 # Entry Example:
 #
-# - name: ProtoFitness
-#   banner: https://i.imgur.com/pu9Fjv5.jpg
+# - name: Neighbourhood map
+#   banner: https://i.imgur.com/ab09Fk5.jpg
 #   links:
-#     - title: Play Store
-#       icon: playstore
-#       url: https://play.google.com/store/apps/details?id=com.watabou.protofitnessss
-#     - title: Github
-#       icon: playstore
+#     - title: Live Page
+#       icon: web
+#       url: https://myname-a.github.io/Memory-Game
+#     - title: Github Repo
+#       icon: github
 #       url: https://github.com/myname/myapp
 #   description: |
 #     Markdown supported
