@@ -27,3 +27,28 @@
 #       url: https://github.com/myname/myapp
 #      
 # v- Add new projects below this line -v
+- name: RestaurantApp
+  banner: https://www.imageupload.co.uk/images/2018/07/29/ScreenShot2018-07-29at21.55.49.png
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/MinimumViablePerson/mws-restaurant-stage-1
+    - title: YouTube
+      icon: youtube
+      url: https://www.youtube.com/watch?v=mKNu9WUGCCo
+  description: |
+    An app for finding restaurants by cuisine type in the US.
+    Users are able to tag a restaurant as a favourite, read reviews and add their own reviews.
+    In addition, the website will also work while offline, thanks to a new web technology called the Service Worker.
+    
+  author: Nicolas Marcora
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/MinimumViablePerson/
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/nmarcora/
+
+  author_location: London, England
+  author_avatar: https://avatars3.githubusercontent.com/u/16916098
