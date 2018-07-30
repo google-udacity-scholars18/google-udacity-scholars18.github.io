@@ -20,15 +20,15 @@ You can edit this file on github by clicking on 🖋 icon and submitting submitt
 #### Entry format
 
 - **`name`** *(required)* The name of your App/Website
-- **`banner`**  *(required)* Link to the banner image for of the app, this could be a screenshot or custom art
-- **`links`** *(required)* LInks to the website/play store/github repo.
+- **`banner`**  *(required)* Link to banner image uploaded to [imgur.com](https://imgur.com/)
+- **`links`** *(required)* Links to the website/play store/github repo.
 	- **`title`** Link title, this would usually be the website name, e.g. `Play Store` or `Github`
 	- **`icon`** Icon descriptor from the list of [supported icons](#supported-icons)
 	- **`url`** Link URL
 - **`description`** *(required)* Short description of your project
 - **`author`** *(required)* Your full name
 - `author_location` *(optional)* City and Country of your residence
-- `author_avatar` *(optional)* Your photo or avatar
+- `author_avatar` *(optional)* Link to your photo or avatar uploaded to [imgur.com](https://imgur.com/)
 - `author_links` *(optional)* Add links to your social-media accounts, e.g. Github, Twitter, Facebook
   - **`title`** The link title, e.g. the name of the website
   - **`icon`** Icon descriptor from the list of [supported icons](#supported-icons)
