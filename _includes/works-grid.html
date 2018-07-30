@@ -16,7 +16,7 @@
 	  {% endfor %}
 	</ul>
       </div>
-      <p>{{ work.description | truncatewords: 15 | markdownify }}</p>
+      <p>{{ work.description | markdownify }}</p>
     </div>
     {% if work.author %}
     <div class="author mdl-list__item {% if work.author_location %}mdl-list__item--two-line{% endif %}">
