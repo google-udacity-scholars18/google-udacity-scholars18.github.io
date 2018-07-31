@@ -56,7 +56,7 @@
   links:
     - title: Live Page
       icon: web
-      url:https://www.depannum.fr/neighborhood/
+      url: https://www.depannum.fr/neighborhood/
     - title: Github Repo
       icon: github
       url: https://github.com/Alain91530/neighborhood
