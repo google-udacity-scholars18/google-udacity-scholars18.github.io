@@ -50,3 +50,27 @@
     - title: Github Profile
       icon: github
       url: https://github.com/Cedric-F/
+
+- name: Herault Historic Heritage Places
+  banner: https://github.com/Alain91530/neighborhood/raw/master/public/images/neighborhood.jpg
+  links:
+    - title: Live Page
+      icon: web
+      url:https://www.depannum.fr/neighborhood/
+    - title: Github Repo
+      icon: github
+      url: https://github.com/Alain91530/neighborhood
+  description: |
+    A single page Mar to find historical heritage of the department of Herault in France
+    Search places, click on markers or places to see Fickr photos around that place.
+    Enjoy, a wonderful part of France!
+  author: Alain Cadenat
+  author_avatar: https://avatars3.githubusercontent.com/u/36514236?s=40&v=4
+  author_location: Paris, France
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: www.linkedin.com/in/alain-cadenat
+    - title: Github Profile
+      icon: github
+      url: https://github.com/Alain91530
