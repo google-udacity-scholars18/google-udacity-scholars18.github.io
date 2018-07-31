@@ -74,3 +74,28 @@
     - title: Github Profile
       icon: github
       url: https://github.com/Alain91530
+  
+- name: Grilli Finder
+  banner: https://imgur.com/g8xSzOL
+  links:
+    - title: Live Page
+      icon: web
+      url: https://ivanteso.github.io/grilli-finder-neighborhood-map/
+    - title: Github Repo
+      icon: github
+      url: https://github.com/ivanteso/grilli-finder-neighborhood-map
+  description: |
+    A single page web application to find all the grills and late night food places in 
+    Tampere, Finland. The list is provided by Foursquare and the results are shown on the
+    map and in a list aside. A filter element is provided to search the grills by name and
+    all the functionalities ar rendered in a modern, pleasant and screen reader friendly UI.    
+  author: Ivan Teso
+  author_avatar: https://avatars3.githubusercontent.com/u/35341793?s=40&v=4
+  author_location: Tampere, Finland
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://linkedin.com/in/ivanteso/
+    - title: Github Profile
+      icon: github
+      url: https://github.com/ivanteso
