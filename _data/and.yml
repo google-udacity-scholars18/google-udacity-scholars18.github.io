@@ -92,3 +92,31 @@
     - title: Facebook
       icon: facebook
       url: https://www.facebook.com/Cosmetique-Organique-292002408240734/
+
+- name: WatchNext
+  banner: https://imgur.com/tmJ5IeN
+  links:
+    - title: Play Store
+      icon: playstore
+      url: https://play.google.com/store/apps/details?id=com.lineargs.watchnext
+    - title: Instagram
+      icon: instagram
+      url: https://www.instagram.com/watchnextapp/
+    - title: Website
+      icon: web
+      url: https://lineargs.github.io/WatchNextApp/
+    - title: Github
+      icon: github
+      url: https://github.com/nuhkoca/Trippo-The_Travel_Guide
+  description: |
+    Simple application to track and explore all the information from your favourite movies and series.
+  author: Goran Minov
+  author_location: London, United Kingdom
+  author_avatar: https://imgur.com/oT6fDpI
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/lineargs/
+    - title: GitHub
+      icon: github
+      url: https://github.com/lineargs
