@@ -28,6 +28,32 @@
 #      
 # v- Add new projects below this line -v
 - name: RestaurantApp
+  banner: https://s3-us-west-2.amazonaws.com/udacity-profiles/production/projects/9656298000-project-9834c9ecac6bb36cf7f36649baa9855b.png
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/rozzilla/mws-restaurant-stage-3
+  description: |
+    Read informations about restaurants, add them to your favourites, write and read reviews.
+    And do it offline at all (thanks to the Service Worker and IndexedDb)!
+    
+  author: Roberto Bianchi
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/rozzilla
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/robertobianchiweb/
+    - title: Twitter
+      icon: twitter
+      url: https://twitter.com/robertobianki
+
+  author_location: Imperia, Italy
+  author_avatar: https://avatars1.githubusercontent.com/u/3996291?s=460&v=4
+
+
+- name: RestaurantApp
   banner: https://i.imgur.com/0nVHgZF.png
   links:
     - title: Github
