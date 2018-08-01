@@ -108,6 +108,12 @@
     - title: Play Store
       icon: playstore
       url: https://play.google.com/store/apps/details?id=com.blogspot.android_czy_java.beautytips
+    - title: Facebook
+      icon: facebook
+      url: https://www.facebook.com/Cosmetique-Organique-292002408240734/
+    - title: Pinterest
+      icon: pinterest
+      url: https://pl.pinterest.com/CosmetiqueOrganique/
   description: |
     Cosmetique Organique is for you if you are looking for better and healthier ways of taking care. It contains recipes for homemade, organic cosmetics that are free from chemicals and preservatives.
   author: Jagoda Sylwester
@@ -116,8 +122,8 @@
   author_links:
     - title: Medium
       icon: medium
-      url: https://medium.com/@jagoda.sylwester
-    - title: Facebook
-      icon: facebook
-      url: https://www.facebook.com/Cosmetique-Organique-292002408240734/
+      url: https://medium.com/@jagoda.sylwester    
+    - title: GitHub
+      icon: github
+      url: https://github.com/yogourt
 
