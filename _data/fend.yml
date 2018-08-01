@@ -99,3 +99,25 @@
     - title: Github Profile
       icon: github
       url: https://github.com/ivanteso
+      
+- name: Jungle Memory Game
+  banner: https://i.imgur.com/cKLn91h.png
+  links:
+    - title: Live Page
+      icon: web
+      url: https://usjulija.github.io/JungleMemoryGame/
+    - title: Github Repo
+      icon: github
+      url: https://github.com/usjulija/JungleMemoryGame
+  description: |
+    A simple game to test your memory, designed in jungle style. The game is fully responsive and should look good on any device.
+  author: Julija Us
+  author_avatar: https://i.imgur.com/KC6x8Jk.jpg
+  author_location: Klaipeda, Lithuania
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/julijaus/
+    - title: Github Profile
+      icon: github
+      url: https://github.com/usjulija
