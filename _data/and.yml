@@ -149,3 +149,23 @@
     - title: GitHub
       icon: github
       url: https://github.com/FNSayyaj
+      
+      
+- name: Medicine Reminder
+- banner: https://i.imgur.com/lMI9i4u.png
+- links: 
+    - title: GitHub
+      icon: github
+      url: https://github.com/sudhakalai/CapstoneStage2
+- description: In the Medicine reminder app the user can add reminders for the medicine to be taken and get notified at the current time. The user can also view medicine history. There is also an option for getting stock remindersif you want to get notified when the stock of medicines is over.
+- author: Sudha Jampala
+- author_location: Lyon, France.
+- author_avatar: https://i.imgur.com/LEjiCsO.jpg
+- author_links: 
+    - title: LinkedIn
+      icon: linkedin
+      url: https://fr.linkedin.com/in/sudha-jampala-2b7b0485
+    - title: GitHub
+      icon: github
+      url: https://github.com/sudhakalai
+
