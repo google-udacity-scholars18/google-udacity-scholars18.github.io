@@ -51,3 +51,23 @@
 
   author_location: Namur, Belgium
   author_avatar: https://i.imgur.com/MHb0Tsp.jpg
+
+- name: Monterrey Tour Guide
+  banner: https://i.imgur.com/gDHccuj.jpg
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/Bwaim/MonterreyTourGuide
+  description: |
+    A Monterrey Tour Guide App which presents relevant information to a user who’s visiting the city.
+  author: Fabien Boismoreau
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/Bwaim
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/fabien-boismoreau/
+
+  author_location: Mont-de-Marsan, France
+  author_avatar: https://i.imgur.com/BhtwOK4.jpg
