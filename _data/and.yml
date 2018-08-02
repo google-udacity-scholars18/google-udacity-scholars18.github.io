@@ -130,4 +130,22 @@
     - title: GitHub
       icon: github
       url: https://github.com/yogourt
-
+      
+- name: Radical News
+  banner: https://i.imgur.com/DQzSfor.jpg
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/FNSayyaj/Capstone-Project
+  description: |
+    Radical News gives the reader the power to read and look for every article worldwide on demand.
+  author: Feras Sayyaj
+  author_location: Amman, Jordan
+  author_avatar: https://i.imgur.com/VENh9NT.png
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/FNSayyaj/
+    - title: GitHub
+      icon: github
+      url: https://github.com/FNSayyaj
