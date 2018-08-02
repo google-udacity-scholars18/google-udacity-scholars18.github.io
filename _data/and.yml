@@ -140,8 +140,8 @@
   description: |
     Radical News gives the reader the power to read and look for every article worldwide on demand.
   author: Feras Sayyaj
-  author_location: Amman, Jordan
   author_avatar: https://i.imgur.com/VENh9NT.png
+  author_location: Amman, Jordan
   author_links:
     - title: LinkedIn
       icon: linkedin
