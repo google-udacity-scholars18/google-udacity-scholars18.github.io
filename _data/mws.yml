@@ -78,3 +78,27 @@
 
   author_location: London, England
   author_avatar: https://avatars3.githubusercontent.com/u/16916098
+  
+  
+- name: RestaurantApp
+  banner: https://i.imgur.com/K1xTmqD.png
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/zasipin/mws-restaurant-stage-1
+  description: |
+    Restaurans website with ability to work offline as an application. 
+    If no internet connection all data stores in IndexedDB. 
+    Service worker makes it possible to work offline and cache responses of requests.
+    
+  author: Zasypin Nikolai
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/zasipin
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/zasypinnikolai/
+
+  author_location: Yaroslavl, Russia
+  author_avatar: https://avatars3.githubusercontent.com/u/3413067?s=460&v=4
