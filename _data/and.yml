@@ -68,14 +68,19 @@
   description: |
     Have you ever wondered about how is the book you just have in your hand and what do
     people think about it? Maybe you always wanted a honest review by someone like you but
-    you never could in that moment.
+    you never could have in that moment.
 
   author: Jonathan Imperato
   author_avatar: https://i.imgur.com/ka5sjM7.png
+  author_location: Florence Area, Italy
   author_links:
     - title: GitHub
       icon: github
       url: https://github.com/jonathanimperato
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/jonathan-imperato/
 
 - name: Trippo
   banner: https://i.imgur.com/V5hPFCO.png
