@@ -71,3 +71,24 @@
 
   author_location: Mont-de-Marsan, France
   author_avatar: https://i.imgur.com/BhtwOK4.jpg
+
+- name: Musical Structure App
+  banner: https://i.imgur.com/BM4ALJI.jpg
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/Bwaim/MusicalStructure
+  description: |
+    An app to design and layout a music playing app that displays the list of available songs
+    and navigates to a details screen of the currently playing song.
+  author: Fabien Boismoreau
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/Bwaim
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/fabien-boismoreau/
+
+  author_location: Mont-de-Marsan, France
+  author_avatar: https://i.imgur.com/BhtwOK4.jpg
