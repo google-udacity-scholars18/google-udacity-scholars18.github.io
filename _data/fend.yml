@@ -122,7 +122,7 @@
       icon: github
       url: https://github.com/usjulija
       
-  - name: 'Easter Egg' - Classic Arcade Game 
+- name: 'Easter Egg' - Classic Arcade Game 
   banner: https://i.imgur.com/zRmIPum.jpg
   links:
      - title: Live Page
