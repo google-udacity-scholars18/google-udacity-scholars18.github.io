@@ -147,3 +147,27 @@
 
   author_location: Cairo, Egypt
   author_avatar: https://avatars.githubusercontent.com/mohamedsayed008
+
+- name: Restaurant Review App
+  banner: https://i.imgur.com/ZVSkh4X.png
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/victorsc/Udacity-Mobile-Web-Specialist-project
+  description: |
+    A web application for reviewing restaurants. It is [x] responsive down to mobile
+    [x] accessible [x] offline ready [x] performant for PWA standards.
+    Check out the github repo for the Lighthouse scores!
+    
+  author: Victor Scaiceanu
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/victorsc
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/victorscaiceanu/
+
+  author_location: Antibes, France
+  author_avatar: https://avatars0.githubusercontent.com/u/3286929
+  
