@@ -28,6 +28,30 @@
 #
 # v- Add new projects below this line -v
 
+- name: Asian Restaurants in Warsaw
+  banner: https://i.imgur.com/BdJYkHp.png
+  links:
+    - title: Live Page
+      icon: web
+      url: https://klaraborowska.github.io/asian-restaurants-map/
+    - title: Github Repo
+      icon: github
+      url: https://github.com/klaraborowska/asian-restaurants-map
+  description: |
+      A single page application featuring a map showing locations of Asian Restaurants in Warsaw. 
+      It's possible to filter restaurant's by category or name. 
+      Clicking on marker or on restaurant's name will open a window with information about the venue.
+  author: Klara Borowska
+  author_avatar: https://i.imgur.com/9e193lo.jpg
+  author_location: Warsaw, Poland
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/klara-borowska/
+    - title: Github Profile
+      icon: github
+      url: https://github.com/klaraborowska
+
 - name: Gwent Memory Game
   banner: https://i.imgur.com/wUOfliR.jpg
   links:
