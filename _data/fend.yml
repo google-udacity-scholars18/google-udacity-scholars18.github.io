@@ -28,6 +28,32 @@
 #
 # v- Add new projects below this line -v
 
+- name: Dublin Train Information
+  banner: https://i.imgur.com/4wMD51s.jpg
+  links:
+    - title: Live Page
+      icon: web
+      url: https://rodcunha.github.io/DART_app/
+    - title: Github Repo
+      icon: github
+      url: https://github.com/rodcunha/DART_app
+  description: |
+    Initially this started as only a location for all the suburban train stations
+    in Dublin but I've decided to expand it and I am now integrating other areas of interest
+    as well as timetables for the trains. Still a work in progress.
+    
+  author: Rodrigo Cunha
+  author_avatar: https://i.imgur.com/CV2O3yG.jpg
+  author_location: Dublin, Ireland
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/rodrigo-da-cunha/
+    - title: Github Profile
+      icon: github
+      url: https://github.com/rodcunha
+
+
 - name: Gwent Memory Game
   banner: https://i.imgur.com/wUOfliR.jpg
   links:
