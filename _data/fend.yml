@@ -29,7 +29,7 @@
 # v- Add new projects below this line -v
 
 - name: Dublin Train Information
-  banner: https://i.imgur.com/wUOfliR.jpg
+  banner: https://i.imgur.com/4wMD51s.jpg
   links:
     - title: Live Page
       icon: web
@@ -43,7 +43,7 @@
     as well as timetables for the trains. Still a work in progress.
     
   author: Rodrigo Cunha
-  author_avatar: https://i.imgur.com/UsuKnXY.png
+  author_avatar: https://i.imgur.com/CV2O3yG.jpg
   author_location: Dublin, Ireland
   author_links:
     - title: LinkedIn
