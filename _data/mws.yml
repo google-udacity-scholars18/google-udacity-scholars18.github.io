@@ -102,3 +102,24 @@
 
   author_location: Yaroslavl, Russia
   author_avatar: https://avatars3.githubusercontent.com/u/3413067?s=460&v=4
+
+- name: Restaurant Reviews Stage 3
+  banner: https://i.imgur.com/8vNZnir.png
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/xakiin6/mws-stage-3
+    description: |
+    A Web app that lists restaurants by neighbourhoods and cuisine.
+    Users are able to mark their favorite restaurant, add reviews while online and offline.
+ 
+ author: Abdihakin Abdullahi
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/xakiin6
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/abdihakin-abdullahi-72746896
+  author_location: Bolton, England
+  author_avatar: https://avatars1.githubusercontent.com/u/22557813
