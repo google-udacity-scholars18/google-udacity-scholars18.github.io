@@ -109,11 +109,11 @@
     - title: Github
       icon: github
       url: https://github.com/xakiin6/mws-stage-3
-    description: |
+  description: |
     A Web app that lists restaurants by neighbourhoods and cuisine.
     Users are able to mark their favorite restaurant, add reviews while online and offline.
  
- author: Abdihakin Abdullahi
+  author: Abdihakin Abdullahi
   author_links:
     - title: GitHub
       icon: github
