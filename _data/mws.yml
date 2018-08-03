@@ -102,3 +102,29 @@
 
   author_location: Yaroslavl, Russia
   author_avatar: https://avatars3.githubusercontent.com/u/3413067?s=460&v=4
+
+
+- name: Restaurant Reviews App
+  banner: https://i.imgur.com/ny6aCRM.jpg
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/MohamedSayed008/mws-restaurant-stage-1
+  description: |
+  Restaurant Progressive App that allow users to mark restaurants as favorite 
+  and add reviews to any restaurant while the user either online or offline.
+    
+  author: Mohamed Sayed
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/mohamedsayed008
+    - title: LinkedIn
+      icon: linkedin
+      url: www.linkedin.com/in/mohamedsayed008
+    - title: Facebook
+      icon: Facebook
+      url: https://www.facebook.com/mohamed3130
+
+  author_location: Cairo, Egypt
+  author_avatar: https://avatars.githubusercontent.com/mohamedsayed008
