@@ -111,8 +111,7 @@
       icon: github
       url: https://github.com/MohamedSayed008/mws-restaurant-stage-1
   description: |
-  Restaurant Progressive App that allow users to mark restaurants as favorite 
-  and add reviews to any restaurant while the user either online or offline.
+    Restaurant Progressive App that allow users to mark restaurants as favorite and add reviews to any restaurant while the user either online or offline.
     
   author: Mohamed Sayed
   author_links:
