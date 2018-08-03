@@ -169,3 +169,30 @@
     - title: Github
       icon: github
       url: https://github.com/hajczek
+
+- name: Neighborhood Map
+  banner: https://i.imgur.com/8CP41kN.png
+  links:
+    - title: Live Page
+      icon: web
+      url: https://bycorsanchez.github.io/neighborhood-map
+    - title: Github Repo
+      icon: github
+      url: https://github.com/BycorSanchez/neighborhood-map
+  description: |
+    Interactive map with the most iconic places in New York. 
+    Pick your favorite spot in the city and see a gallery of photos related to that place.
+
+  author: Bycor Sánchez Sánchez
+  author_avatar: https://i.imgur.com/RQzPT1g.jpg
+  author_location: Canary Islands, Spain
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/bycorsanchez/
+    - title: Github Profile
+      icon: github
+      url: https://github.com/bycorSanchez/
+    - title: Twitter Profile
+      icon: twitter
+      url: https://twitter.com/bycorsanchez
