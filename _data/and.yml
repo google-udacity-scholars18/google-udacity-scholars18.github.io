@@ -26,7 +26,7 @@
 #       icon: github
 #       url: https://github.com/myname/myapp
 #      
-# v- Add new projects below this line -v
+# v- Add new projects to the end of the file
 
 - name: WatchNext
   banner: https://i.imgur.com/tmJ5IeN.png
