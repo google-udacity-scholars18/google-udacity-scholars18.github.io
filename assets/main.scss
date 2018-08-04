@@ -20,6 +20,34 @@ html > body {
     background-color: #FAFAFA;
 }
 
+
+/** Global supporting classes **/
+// Common icon styling
+.icon {
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    margin-right: 5px;
+    vertical-align: text-top;
+}
+
+// Most icons are svg icons, make them gray
+svg.icon {
+    fill: #828282;
+}
+
+// An icon row for media icons
+.media-links { 
+    display: flex;
+    flex-direciton: row;
+
+    // Reset <ul/> styling
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+
 /** Pin footer to the bottom of the page */
 .mdl-layout {
     min-height: 100vh;
@@ -56,6 +84,17 @@ header.mdl-layout__header {
 	    border-bottom-color: $accent-color;
 	}
     }
+
+    // Icons and links in the header must be white
+    svg.icon {
+	fill: #fff;
+    }
+
+    // Links must be white too
+    a {
+	color: #fff;
+	text-decoration: none;
+    }
 }
 
 .mdl-card {
@@ -90,44 +129,6 @@ header.mdl-layout__header {
       height: 40px;
       margin-right: 16px;
   }
-}
-
-
-
-.github_ribbon img {
-    position: absolute; 
-    top: 0; 
-    right: 0; 
-    border: 0;
-    z-index: 1000;
-    
-    @media screen and (max-width: 1024px) {
-	display: none;
-    }
-}
-
-/** Icon support */
-.icon {
-    width: 16px;
-    height: 16px;
-    display: inline-block;
-    margin-right: 5px;
-    vertical-align: text-top;
-}
-
-svg.icon {
-    fill: #828282;
-}
-
-/** Media links */
-.media-links { 
-    display: flex;
-    flex-direciton: row;
-
-    // Reset <ul/> styling
-    list-style: none;
-    margin: 0;
-    padding: 0;
 }
 
 // Custom styling for medium-sized screens
