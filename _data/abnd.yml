@@ -26,28 +26,7 @@
 #       icon: github
 #       url: https://github.com/myname/myapp
 #      
-# v- Add new projects below this line -v
-- name: Stockholm Tour Guide
-  banner: https://i.imgur.com/j9LbQv7.png
-  links:
-    - title: Github
-      icon: github
-      url: https://github.com/leahZhangleah/STOCKHOLMTOURGUIDE
-  description: |
-    Stockholm Tour Guide app gives brief introduction of this city and provides information about tours, hotels
-    and restaurant recommendations.
-    
-  author: Qiongshu Zhang
-  author_links:
-    - title: GitHub
-      icon: github
-      url: https://github.com/leahZhangleah
-    - title: LinkedIn
-      icon: linkedin
-      url: https://www.linkedin.com/in/qiongshu-leah-zhang-b4362b61/
-
-  author_location: Stockholm, Sweden
-  
+# v- Add new projects to the end of the file
 - name: NewsReader
   banner: https://i.imgur.com/OV8xQfZ.jpg
   links:
@@ -92,6 +71,27 @@
 
   author_location: Mont-de-Marsan, France
   author_avatar: https://i.imgur.com/BhtwOK4.jpg
+
+- name: Stockholm Tour Guide
+  banner: https://i.imgur.com/j9LbQv7.png
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/leahZhangleah/STOCKHOLMTOURGUIDE
+  description: |
+    Stockholm Tour Guide app gives brief introduction of this city and provides information about tours, hotels
+    and restaurant recommendations.
+    
+  author: Qiongshu Zhang
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/leahZhangleah
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/qiongshu-leah-zhang-b4362b61/
+
+  author_location: Stockholm, Sweden
 
 - name: Avengers Score Keeper App 
   banner: https://i.imgur.com/RC9WHXR.jpg
