@@ -28,15 +28,13 @@
   <body {% if page.url == "/" %}class="main-page"{% endif %}>
 
     <!-- Begin Layout -->
-    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-tabs">
+    <div class="mdl-layout mdl-layout--fixed-header">
       {% include header.html %}
 
       {{ content }}
 
       {% include footer.html %}
     </div>
-
-    <a href="{{ site.github_url }}" class="github_ribbon"><img src="https://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png" alt="Fork me on GitHub"></a>
     <!-- End Layout -->
 
     <!-- Material Design Lite js Library -->
