@@ -189,7 +189,7 @@
       icon: web
       url: http://skorudzhiev.com/
       
-      - name: Blue Podcast
+- name: Blue Podcast
   banner: https://user-images.githubusercontent.com/38587571/43672828-59a8d84c-97b6-11e8-8f94-5adab1604297.png
   links:
     - title: Github
