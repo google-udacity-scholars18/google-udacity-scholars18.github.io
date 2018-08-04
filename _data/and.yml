@@ -186,3 +186,6 @@ Quiz Explorer content will engage the user to compete with itself with the singl
     - title: GitHub
       icon: github
       url: https://github.com/skorudzhiev
+    - title: Website
+      icon: web
+      url: http://skorudzhiev.com/
