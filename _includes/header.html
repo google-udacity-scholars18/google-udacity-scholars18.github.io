@@ -8,7 +8,7 @@
   </div>
   <!-- Tabs -->
 
-  <div class="mdl-navigation docs-navigation">
+  <div class="mdl-navigation">
     {% for node in site.data.menu_items %}
     {% if page.url == node.url %}
     <a href="{{ node.url | prepend: site.baseurl }}" class="mdl-navigation__link is-active">{{ node.title }}</a>

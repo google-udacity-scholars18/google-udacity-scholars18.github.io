@@ -14,48 +14,33 @@ $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 $accent-color: #ff4081;
 
+/* Global changes */
 html > body {
     font-family: 'Roboto','Helvetica','Arial',sans-serif!important;
     background-color: #FAFAFA;
 }
 
-.icon {
-    width: 16px;
-    height: 16px;
-    display: inline-block;
-    margin-right: 5px;
-    vertical-align: text-top;
-}
-
-svg.icon {
-    fill: #828282;
-}
-
-.media-links { 
-    display: flex;
-    flex-direciton: row;
-}
-
-ul.media-links {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-}
-
+/** Pin footer to the bottom of the page */
 .mdl-layout {
     min-height: 100vh;
 }
-.mdl-layout__header-row {
-    padding: 0 40px;
-}
 
-.docs-navigation {
-    width: 100%;
-    height: 54px;
-    flex-shrink: 0;
-    padding: 0 16px 0 24px;
-    user-select: none;
+header.mdl-layout__header {
+    /** Change default header color */
+    background-color: #2196F3;
 
+    /** Align title with navigation */
+    .mdl-layout__header-row {
+	padding: 0 16px;
+    }
+
+    /** Make navigation bar narrower than default */
+    .mdl-navigation {
+	height: 54px;
+	user-select: none;
+    }
+
+    /** Change navigation to look like tabs */
     .mdl-navigation__link {
 	font-weight: 500;
 	font-size: 13px;
@@ -73,54 +58,41 @@ ul.media-links {
     }
 }
 
-header.mdl-layout__header {
-    background-color: #2196F3;
-}
+.mdl-card {
+  .mdl-card__title {
+    height: 176px;
+  }
 
-@media screen and (min-width: 1024px) {
-    .main-page header {
-	position: relative;
+  /** Card title with media links */
+  .title-with-links {
+      display: flex;
+      flex-direciton: row;
+      align-items: center;
 
-	height: 440px;
-	background-image: url('Material_background.jpg');
-	background-size: cover;
-	background-repeat: no-repeat;
+      // Pin links to the right
+      .mdl-card__title-text {
+	  flex: 1;
+      }
+  }
 
-	.docs-navigation {
-	    position: absolute;
-	    bottom: 0;
-	}
-    }
-}
+  /** Author card block */
+  .author {
+      border-top: 1px solid rgba(0, 0, 0, .1);
+  }
 
-.mdl-navigation__link--icon > span, .mdl-navigation__link--icon > .material-icons {
-    margin-right: 8px;
-}
-
-.author {
-    border-top: 1px solid rgba(0, 0, 0, .1);
-}
-
-.author-avatar {
-    background-repeat: no-repeat;
-    background-position: 50%;
-    border-radius: 50%;
-    float: left;
-    width: 40px;
-    height: 40px;
-    margin-right: 16px;
+  /** Circle avatar */
+  .author-avatar {
+      background-repeat: no-repeat;
+      background-position: 50%;
+      border-radius: 50%;
+      float: left;
+      width: 40px;
+      height: 40px;
+      margin-right: 16px;
+  }
 }
 
 
-.title-with-links {
-    display: flex;
-    flex-direciton: row;
-    align-items: center;
-}
-
-.title-with-links .mdl-card__title-text {
-    flex: 1;
-}
 
 .github_ribbon img {
     position: absolute; 
@@ -134,8 +106,49 @@ header.mdl-layout__header {
     }
 }
 
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "layout"
-;
+/** Icon support */
+.icon {
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    margin-right: 5px;
+    vertical-align: text-top;
+}
 
+svg.icon {
+    fill: #828282;
+}
+
+/** Media links */
+.media-links { 
+    display: flex;
+    flex-direciton: row;
+
+    // Reset <ul/> styling
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+// Custom styling for medium-sized screens
+@media screen and (min-width: 1024px) {
+    // Add header padding
+    header.mdl-layout__header {
+	padding: 0 16px;
+    }
+
+    // Expand Main Page header for larger screens
+    .main-page header {
+	position: relative;
+	height: 440px;
+	background-image: url('Material_background.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+
+	// Pin navigation to the bottom of the header
+	.mdl-navigation {
+	    position: absolute;
+	    bottom: 0;
+	}
+    }
+}
