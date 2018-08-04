@@ -188,3 +188,21 @@
     - title: Website
       icon: web
       url: http://skorudzhiev.com/
+      
+      - name: Blue Podcast
+  banner: https://user-images.githubusercontent.com/38587571/43672828-59a8d84c-97b6-11e8-8f94-5adab1604297.png
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/vidbregar/Blue-Podcast
+  description: Whether you want to relax, make your commute more interesting, laugh like never before, or learn something new, Blue Podcast has you covered. It offers a huge amount of podcasts which talk about many different topics, such as business & finance, reality stories, entrepreneurship, design, comedy, education, fitness & health, movies and much more. Blue Podcast has a very modern, beautiful and in intuitive design. It has a rich selection of staff picked, featured and popular podcasts.
+  author: Vid Bregar
+  author_location: Slovenia
+  author_avatar: https://imgur.com/a/L7ZksMW
+  author_links: 
+    - title: Twitter
+      icon: twitter
+      url: https://twitter.com/vidbregar
+    - title: GitHub
+      icon: github
+      url: https://github.com/vidbregar
