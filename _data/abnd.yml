@@ -113,7 +113,7 @@
   author_location: Poznan, Poland
   author_avatar: https://i.imgur.com/wzxISjh.jpg
   
-  - name: My Custom News App 
+- name: My Custom News App 
   banner: https://i.imgur.com/G2qzpo3.jpg
   links:
     - title: GitHub
