@@ -28,6 +28,32 @@
 #      
 # v- Add new projects below this line -v
 - name: RestaurantApp
+  banner: https://i.imgur.com/bn9FGwG.png
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/rozzilla/mws-restaurant-stage-3
+  description: |
+    Read informations about restaurants, add them to your favourites, write and read reviews.
+    And do it offline at all (thanks to the Service Worker and IndexedDb)!
+    
+  author: Roberto Bianchi
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/rozzilla
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/robertobianchiweb/
+    - title: Twitter
+      icon: twitter
+      url: https://twitter.com/robertobianki
+
+  author_location: Imperia, Italy
+  author_avatar: https://avatars1.githubusercontent.com/u/3996291?s=460&v=4
+
+
+- name: RestaurantApp
   banner: https://i.imgur.com/0nVHgZF.png
   links:
     - title: Github
@@ -52,3 +78,96 @@
 
   author_location: London, England
   author_avatar: https://avatars3.githubusercontent.com/u/16916098
+  
+  
+- name: RestaurantApp
+  banner: https://i.imgur.com/K1xTmqD.png
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/zasipin/mws-restaurant-stage-1
+  description: |
+    Restaurans website with ability to work offline as an application. 
+    If no internet connection all data stores in IndexedDB. 
+    Service worker makes it possible to work offline and cache responses of requests.
+    
+  author: Zasypin Nikolai
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/zasipin
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/zasypinnikolai/
+
+  author_location: Yaroslavl, Russia
+  author_avatar: https://avatars3.githubusercontent.com/u/3413067?s=460&v=4
+
+- name: Restaurant Reviews Stage 3
+  banner: https://i.imgur.com/8vNZnir.png
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/xakiin6/mws-stage-3
+  description: |
+    A Web app that lists restaurants by neighbourhoods and cuisine.
+    Users are able to mark their favorite restaurant, add reviews while online and offline.
+ 
+  author: Abdihakin Abdullahi
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/xakiin6
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/abdihakin-abdullahi-72746896
+  author_location: Bolton, England
+  author_avatar: https://avatars1.githubusercontent.com/u/22557813
+
+- name: Restaurant Reviews App
+  banner: https://i.imgur.com/ny6aCRM.jpg
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/MohamedSayed008/mws-restaurant-stage-1
+  description: |
+    Restaurant Progressive App that allow users to mark restaurants as favorite and add reviews to any restaurant while the user either online or offline.
+    
+  author: Mohamed Sayed
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/mohamedsayed008
+    - title: LinkedIn
+      icon: linkedin
+      url: www.linkedin.com/in/mohamedsayed008
+    - title: Facebook
+      icon: Facebook
+      url: https://www.facebook.com/mohamed3130
+
+  author_location: Cairo, Egypt
+  author_avatar: https://avatars.githubusercontent.com/mohamedsayed008
+
+- name: Restaurant Review App
+  banner: https://i.imgur.com/ZVSkh4X.png
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/victorsc/Udacity-Mobile-Web-Specialist-project
+  description: |
+    A web application for reviewing restaurants. It is [x] responsive down to mobile
+    [x] accessible [x] offline ready [x] performant for PWA standards.
+    Check out the github repo for the Lighthouse scores!
+    
+  author: Victor Scaiceanu
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/victorsc
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/victorscaiceanu/
+
+  author_location: Antibes, France
+  author_avatar: https://avatars0.githubusercontent.com/u/3286929
+  

@@ -52,6 +52,31 @@
       icon: github
       url: https://github.com/klaraborowska
 
+- name: Dublin Train Information
+  banner: https://i.imgur.com/4wMD51s.jpg
+  links:
+    - title: Live Page
+      icon: web
+      url: https://rodcunha.github.io/DART_app/
+    - title: Github Repo
+      icon: github
+      url: https://github.com/rodcunha/DART_app
+  description: |
+    Initially this started as only a location for all the suburban train stations
+    in Dublin but I've decided to expand it and I am now integrating other areas of interest
+    as well as timetables for the trains. Still a work in progress.
+    
+  author: Rodrigo Cunha
+  author_avatar: https://i.imgur.com/CV2O3yG.jpg
+  author_location: Dublin, Ireland
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/rodrigo-da-cunha/
+    - title: Github Profile
+      icon: github
+      url: https://github.com/rodcunha
+
 - name: Gwent Memory Game
   banner: https://i.imgur.com/wUOfliR.jpg
   links:
@@ -123,3 +148,74 @@
     - title: Github Profile
       icon: github
       url: https://github.com/ivanteso
+      
+- name: Jungle Memory Game
+  banner: https://i.imgur.com/cKLn91h.png
+  links:
+    - title: Live Page
+      icon: web
+      url: https://usjulija.github.io/JungleMemoryGame/
+    - title: Github Repo
+      icon: github
+      url: https://github.com/usjulija/JungleMemoryGame
+  description: |
+    A simple game to test your memory, designed in jungle style. The game is fully responsive and should look good on any device.
+  author: Julija Us
+  author_avatar: https://i.imgur.com/KC6x8Jk.jpg
+  author_location: Klaipeda, Lithuania
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/julijaus/
+    - title: Github Profile
+      icon: github
+      url: https://github.com/usjulija
+      
+- name: "'Easter Egg' - Classic Arcade Game"
+  banner: https://i.imgur.com/zRmIPum.jpg
+  links:
+    - title: Live Page
+      icon: web
+      url: https://hajczek.github.io/arcade-game/
+    - title: Github Repo
+      icon: github
+      url: https://github.com/hajczek/arcade-game
+  description: |
+    This is a crazy game with 'Easter Egg', small eggs, hens, hearts, rocks,  and gems! Play for fun!
+  author: Iwona Kolanowska
+  author_avatar: https://avatars2.githubusercontent.com/u/33376863?s=60&v=4
+  author_location: Milanówek, Poland
+  auhtor_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: www.linkedin.com/in/iwona-kolanowska
+    - title: Github
+      icon: github
+      url: https://github.com/hajczek
+
+- name: Neighborhood Map
+  banner: https://i.imgur.com/IEtipJy.jpg
+  links:
+    - title: Live Page
+      icon: web
+      url: https://bycorsanchez.github.io/neighborhood-map
+    - title: Github Repo
+      icon: github
+      url: https://github.com/BycorSanchez/neighborhood-map
+  description: |
+    Interactive map with the most iconic places in New York. 
+    Pick your favorite spot in the city and see a gallery of photos related to that place.
+
+  author: Bycor Sánchez Sánchez
+  author_avatar: https://i.imgur.com/RQzPT1g.jpg
+  author_location: Canary Islands, Spain
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/bycorsanchez/
+    - title: Github Profile
+      icon: github
+      url: https://github.com/bycorSanchez/
+    - title: Twitter Profile
+      icon: twitter
+      url: https://twitter.com/bycorsanchez

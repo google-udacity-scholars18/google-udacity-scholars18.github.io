@@ -68,14 +68,18 @@
   description: |
     Have you ever wondered about how is the book you just have in your hand and what do
     people think about it? Maybe you always wanted a honest review by someone like you but
-    you never could in that moment.
+    you never could have in that moment.
 
   author: Jonathan Imperato
   author_avatar: https://i.imgur.com/ka5sjM7.png
+  author_location: Florence Area, Italy
   author_links:
     - title: GitHub
       icon: github
       url: https://github.com/jonathanimperato
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/jonathan-imperato/
 
 - name: Trippo
   banner: https://i.imgur.com/V5hPFCO.png
@@ -108,6 +112,12 @@
     - title: Play Store
       icon: playstore
       url: https://play.google.com/store/apps/details?id=com.blogspot.android_czy_java.beautytips
+    - title: Facebook
+      icon: facebook
+      url: https://www.facebook.com/Cosmetique-Organique-292002408240734/
+    - title: Pinterest
+      icon: pinterest
+      url: https://pl.pinterest.com/CosmetiqueOrganique/
   description: |
     Cosmetique Organique is for you if you are looking for better and healthier ways of taking care. It contains recipes for homemade, organic cosmetics that are free from chemicals and preservatives.
   author: Jagoda Sylwester
@@ -116,8 +126,45 @@
   author_links:
     - title: Medium
       icon: medium
-      url: https://medium.com/@jagoda.sylwester
-    - title: Facebook
-      icon: facebook
-      url: https://www.facebook.com/Cosmetique-Organique-292002408240734/
+      url: https://medium.com/@jagoda.sylwester    
+    - title: GitHub
+      icon: github
+      url: https://github.com/yogourt
+      
+- name: Radical News
+  banner: https://i.imgur.com/DQzSfor.jpg
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/FNSayyaj/Capstone-Project
+  description: |
+    Radical News gives the reader the power to read and look for every article worldwide on demand.
+  author: Feras Sayyaj
+  author_avatar: https://i.imgur.com/VENh9NT.png
+  author_location: Amman, Jordan
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/FNSayyaj/
+    - title: GitHub
+      icon: github
+      url: https://github.com/FNSayyaj
+      
+- name: Medicine Reminder
+  banner: https://i.imgur.com/lMI9i4u.png
+  links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/sudhakalai/CapstoneStage2
+  description: In the Medicine reminder app the user can add reminders for the medicine to be taken and get notified at the current time. The user can also view medicine history. There is also an option for getting stock remindersif you want to get notified when the stock of medicines is over.
+  author: Sudha Jampala
+  author_location: Lyon, France.
+  author_avatar: https://i.imgur.com/LEjiCsO.jpg
+  author_links: 
+    - title: LinkedIn
+      icon: linkedin
+      url: https://fr.linkedin.com/in/sudha-jampala-2b7b0485
+    - title: GitHub
+      icon: github
+      url: https://github.com/sudhakalai
 

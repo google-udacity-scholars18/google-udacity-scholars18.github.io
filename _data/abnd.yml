@@ -27,6 +27,27 @@
 #       url: https://github.com/myname/myapp
 #      
 # v- Add new projects below this line -v
+- name: Stockholm Tour Guide
+  banner: https://i.imgur.com/j9LbQv7.png
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/leahZhangleah/STOCKHOLMTOURGUIDE
+  description: |
+    Stockholm Tour Guide app gives brief introduction of this city and provides information about tours, hotels
+    and restaurant recommendations.
+    
+  author: Qiongshu Zhang
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/leahZhangleah
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/qiongshu-leah-zhang-b4362b61/
+
+  author_location: Stockholm, Sweden
+  
 - name: NewsReader
   banner: https://i.imgur.com/OV8xQfZ.jpg
   links:
@@ -51,3 +72,43 @@
 
   author_location: Namur, Belgium
   author_avatar: https://i.imgur.com/MHb0Tsp.jpg
+
+- name: Monterrey Tour Guide
+  banner: https://i.imgur.com/jbnKXE0.jpg
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/Bwaim/MonterreyTourGuide
+  description: |
+    A Monterrey Tour Guide App which presents relevant information to a user who’s visiting the city.
+  author: Fabien Boismoreau
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/Bwaim
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/fabien-boismoreau/
+
+  author_location: Mont-de-Marsan, France
+  author_avatar: https://i.imgur.com/BhtwOK4.jpg
+
+- name: Avengers Score Keeper App 
+  banner: https://i.imgur.com/RC9WHXR.jpg
+  links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/StitchB/ScoreKeeper/
+  description: |
+    My second project - the Score Keeper App is made to be more like a game rather than just a counter. It might not be the most advanced of my apps but it has been my first milestone and gave me lots of motivation to work harder therefore I have showcased it here.
+  author: Piotr Borowiec
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/StitchB/
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/peter-borowiec-43067a31/
+
+  author_location: Poznan, Poland
+  author_avatar: https://i.imgur.com/wzxISjh.jpg

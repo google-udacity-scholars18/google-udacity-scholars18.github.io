@@ -1,0 +1,9 @@
+# This allows PR reviews to work. 
+#
+# When publishing website to GitHub pages, it will be published under "ud851-emea" subdirectory.
+# On netlify it will be published under a root directory.
+# The site will continue to look for assets starting with "ud851-emea" prefix, which works on GH Pages but not on Netlify.
+# Here we override any requests for resources beneath ud851-emea directory back to root.
+[[redirects]]
+  from = "/ud851-emea/*"
+  to = "/:splat"
