@@ -112,3 +112,25 @@
 
   author_location: Poznan, Poland
   author_avatar: https://i.imgur.com/wzxISjh.jpg
+  
+- name: My Custom News App 
+  banner: https://i.imgur.com/G2qzpo3.jpg
+  links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/DJ-Akasha/NewsAppStage1and2
+  description: |
+    This app uses the Guardian API to display news articles on the phone. The user can customize 
+    the articles that are shown by inputting a specific word or group of words. The user can 
+    also choose how many articles will be displayed as well as in what order. 
+  author: Elisa Simone
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/DJ-Akasha
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/elisasimone/
+
+  author_location: London, UK
+  author_avatar: https://i.imgur.com/42JwC1U.jpg
