@@ -132,7 +132,7 @@ header.mdl-layout__header {
 }
 
 // Custom styling for medium-sized screens
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 840px) {
     // Add header padding
     header.mdl-layout__header {
 	padding: 0 16px;
