@@ -206,3 +206,24 @@
     - title: GitHub
       icon: github
       url: https://github.com/vidbregar
+
+- name: Trakr
+  banner: https://i.imgur.com/c2aOQf8.png
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/vokod/Trakr
+  description: Location tracking app with cloud sync and an easy to use interface. Trakr records geographical position and path during outdoor activities like walking, hiking, running, biking, boating, motorbike riding, driving or even flying. Users can record tracks, view them, analyze the elevation and speed/pace profiles, export them as GPX file, back them up to cloud and synchronize between devices.
+  author: Daniel Vokó
+  author_location: Hungary
+  author_avatar: https://i.imgur.com/PkeeymL.jpg
+  author_links: 
+    - title: Twitter
+      icon: twitter
+      url: https://twitter.com/vokod
+    - title: GitHub
+      icon: github
+      url: https://github.com/vokod
+       - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/d%C3%A1niel-v-917961159/
