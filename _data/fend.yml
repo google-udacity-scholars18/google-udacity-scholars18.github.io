@@ -220,3 +220,24 @@
       icon: github
       url: https://github.com/klaraborowska
 
+- name: City Explorer
+  banner: https://i.imgur.com/hncvy7W.jpg
+  links:
+    - title: Live Page
+      icon: web
+      url: https://rakunn.github.io/neighborhood-map/
+    - title: Github Repo
+      icon: github
+      url: https://github.com/rakunn/neighborhood-map
+  description: |
+    Find the best venues in your location! Final FEND project with some extra functionalities.
+  author: Rafal Bagrowski
+  author_avatar: https://i.imgur.com/ySSwCSi.jpg
+  author_location: Warsaw, Poland
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/rafa%C5%82-bagrowski/
+    - title: Github Profile
+      icon: github
+      url: https://github.com/rakunn
