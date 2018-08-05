@@ -242,24 +242,24 @@
       icon: github
       url: https://github.com/rakunn
       
-   name: Fallout Edition Memory Game
-   banner: https://i.imgur.com/QGU8yEp.png
-   links:
-     - title: Live Page
-       icon: web
-       url: https://myname-a.github.io/Memory-Game
-     - title: Github Repo
-       icon: github
-       url: https://foxystoat.github.io/memory-game/
-   description: |
-     Classic memory game Fallout Edition.  Boost your memory by find matching pairs of vault boy images. The game is timed and has a score rating so you can try and better your score.
-   author: Carol Hodgson
-   author_avatar: https://avatars3.githubusercontent.com/u/20889726?s=400&u=83907cc31340721e753f11dc5d0770afb6e2c9e4&v=4
-   author_location: Yorkshire, UK
-   auhtor_links:
-     - title: LinkedIn
-       icon: linkedin
-       url: https://www.linkedin.com/in/carol-hodgson-a9a3b7126/
-      - title: Github
-       icon: github
-       url: https://github.com/FoxyStoat
+- name: Fallout Edition Memory Game
+  banner: https://i.imgur.com/QGU8yEp.png
+  links:
+    - title: Live Page
+      icon: web
+      url: https://myname-a.github.io/Memory-Game
+    - title: Github Repo
+      icon: github
+      url: https://foxystoat.github.io/memory-game/
+  description: |
+    Classic memory game Fallout Edition.  Boost your memory by find matching pairs of vault boy images. The game is timed and has a score rating so you can try and better your score.
+  author: Carol Hodgson
+  author_avatar: https://avatars3.githubusercontent.com/u/20889726?s=400&u=83907cc31340721e753f11dc5d0770afb6e2c9e4&v=4
+  author_location: Yorkshire, UK
+  auhtor_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/carol-hodgson-a9a3b7126/
+    - title: Github
+      icon: github
+      url: https://github.com/FoxyStoat
