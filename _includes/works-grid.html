@@ -1,7 +1,7 @@
 <div class="mdl-grid">
   {% for work in include.works reversed %}
   <div class="mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col mdl-cell--4-col-desktop mdl-cell--4-col-tablet  mdl-cell--12-col-phone">
-    <a style="color: inherit; text-decoration:none;" href="{{ work.links[0].url }}">
+    <a style="color: inherit; text-decoration:none;" href="{{ work.links[0].url }}" target="_blank">
       <div class="mdl-card__title" {% if work.banner %} style="background: url('{{ work.banner }}') center/cover;" {% endif %}>
       </div>
     </a>
