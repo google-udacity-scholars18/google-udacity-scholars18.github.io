@@ -139,8 +139,8 @@
   auhtor_links:
     - title: LinkedIn
       icon: linkedin
-      url: www.linkedin.com/in/iwona-kolanowska
-    - title: Github
+      url: https://www.linkedin.com/in/iwona-kolanowska/
+    - title: Github Profile
       icon: github
       url: https://github.com/hajczek
 
