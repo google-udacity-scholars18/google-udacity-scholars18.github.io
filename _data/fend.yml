@@ -282,3 +282,26 @@
     - title: GitHub Profile
       icon: github
       url: https://github.com/veselinn16
+      
+- name: Child-friendly restaurants in Cracow
+  banner: https://i.imgur.com/SrtSOCP.png
+  links:
+    - title: Live Page
+      icon: web
+      url: https://a-czer-a.github.io/UFEND-Project-8--Neighborhood-Map/
+    - title: Github Repo
+      icon: github
+      url: https://a-czer-a.github.io/UFEND-Project-8--Neighborhood-Map/
+  description: |
+      A single page React app featuring a map of child-friendly restaurants in Cracow.
+      A user can filter locations by restaurant's name and click each marker to display info window with details and a street view. 
+  author: Agata Czerwińska
+  author_avatar: https://i.imgur.com/c5NLxZh.jpg
+  author_location: Rybnik, Poland
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/agata-czerwinska/
+    - title: Github Profile
+      icon: github
+      url: https://github.com/a-czer-a
