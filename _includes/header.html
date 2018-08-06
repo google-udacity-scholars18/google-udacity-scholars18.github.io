@@ -1,22 +1,24 @@
 <header class="mdl-layout__header">
-  <div class="mdl-layout__header-row">
-    <!-- Title -->
-    <span class="mdl-layout-title">{{ page.title | default: site.title }}</span>
-    <!-- Add spacer, to align navigation to the right -->
-    <div class="mdl-layout-spacer"></div>
-    <a class="github-icon" href="{{ site.github_url }}" target="_blank">
-      {% include icon.html icon="github" %} GitHub
-    </a>
-  </div>
-  <!-- Tabs -->
+  <div class="max-width-container">
+    <div class="mdl-layout__header-row">
+      <!-- Title -->
+      <span class="mdl-layout-title">{{ page.title | default: site.title }}</span>
+      <!-- Add spacer, to align navigation to the right -->
+      <div class="mdl-layout-spacer"></div>
+      <a class="github-icon" href="{{ site.github_url }}" target="_blank">
+	{% include icon.html icon="github" %} GitHub
+      </a>
+    </div>
+    <!-- Tabs -->
 
-  <div class="mdl-navigation">
-    {% for node in site.data.menu_items %}
-    {% if page.url == node.url %}
-    <a href="{{ node.url | prepend: site.baseurl }}" class="mdl-navigation__link is-active">{{ node.title }}</a>
-    {% else %}
-    <a href="{{ node.url | prepend: site.baseurl }}" class="mdl-navigation__link">{{ node.title }}</a>
-    {% endif %}
-    {% endfor %}
+    <div class="mdl-navigation">
+      {% for node in site.data.menu_items %}
+      {% if page.url == node.url %}
+      <a href="{{ node.url | prepend: site.baseurl }}" class="mdl-navigation__link is-active">{{ node.title }}</a>
+      {% else %}
+      <a href="{{ node.url | prepend: site.baseurl }}" class="mdl-navigation__link">{{ node.title }}</a>
+      {% endif %}
+      {% endfor %}
+    </div>
   </div>
 </header>

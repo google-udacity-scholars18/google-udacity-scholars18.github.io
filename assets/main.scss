@@ -20,6 +20,11 @@ html > body {
     background-color: #FAFAFA;
 }
 
+.max-width-container {
+    width: 100%;
+    max-width: 1600px;
+    margin: 0 auto;
+}
 
 /** Global supporting classes **/
 // Common icon styling

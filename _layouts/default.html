@@ -31,7 +31,9 @@
     <div class="mdl-layout mdl-layout--fixed-header">
       {% include header.html %}
 
-      {{ content }}
+      <div class="max-width-container">
+	{{ content }}
+      </div>
 
       {% include footer.html %}
     </div>
