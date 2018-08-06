@@ -17,7 +17,7 @@ title: Udacity-Google EMEA Scholarship 2018 - Showtime!
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Built with love and care by Udacity students.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://google-udacity-scholars18.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_url: https://github.com/google-udacity-scholars18/google-udacity-scholars18.github.io
 
