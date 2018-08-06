@@ -263,3 +263,22 @@
     - title: Github
       icon: github
       url: https://github.com/FoxyStoat
+      
+- name: Wavey Memory Game
+  banner: https://i.imgur.com/koB6Aj3.jpg
+  links:
+    - title: Github Repo
+      icon: github
+      url: https://github.com/veselinn16/memory-game-project    
+  description: |
+    A minimalistic game to test and improve your memory, which in my case is pretty short :D.
+  author: Veselin Tonev
+  author_avatar: https://i.imgur.com/BAeBkyF.jpg
+  author_location: Plovdiv, Bulgaria
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/veselin-tonev-173b09152/
+    - title: GitHub Profile
+      icon: github
+      url: https://github.com/veselinn16
