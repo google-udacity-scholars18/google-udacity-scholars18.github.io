@@ -266,3 +266,26 @@
     - title: Facebook
       icon: facebook
       url: https://www.facebook.com/iBahaa
+      
+- name: Global News
+  banner: https://i.imgur.com/aIsD2up.jpg
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/YahiaAbdelWahab/GlobalNews
+  description: |
+    Global News is an Android app that lets you see the latest headlines using NewsAPI.org, the app also display local news according to the users' location in US, Canada, UK, France, Sweden and Egypt.
+    The app has a widget, so you can see your favorite articles at a glance.
+  author: Yahia AbdelWahab
+  author_avatar: https://i.imgur.com/Mcqm8Bi.jpg
+  author_location: Egypt
+  auhtor_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/yahia-hassan/
+    - title: Github
+      icon: github
+      url: https://github.com/YahiaAbdelWahab
+    - title: Twitter
+      icon: twitter
+      url: https://twitter.com/YahiaAWahab
