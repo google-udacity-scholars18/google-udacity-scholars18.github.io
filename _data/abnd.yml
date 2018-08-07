@@ -134,3 +134,23 @@
 
   author_location: London, UK
   author_avatar: https://i.imgur.com/42JwC1U.jpg
+
+- name: Inventory App
+  banner: https://imgur.com/a/R8Nheda
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/osama1982/InventoryApp_Stage2
+  description: |
+    An app for tracking inventory, registering quantity of sold products and giving 
+    you the option to contact the supplier to order additional quantities. 
+    
+  author: Osama Chaban
+  author_location: Sweden
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/osama1982
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/osama-chaban-a85a7115/
