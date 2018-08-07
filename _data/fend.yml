@@ -291,7 +291,7 @@
       url: https://a-czer-a.github.io/UFEND-Project-8--Neighborhood-Map/
     - title: Github Repo
       icon: github
-      url: https://a-czer-a.github.io/UFEND-Project-8--Neighborhood-Map/
+      url: https://github.com/a-czer-a/UFEND-Project-8--Neighborhood-Map
   description: |
       A single page React app featuring a map of child-friendly restaurants in Cracow.
       A user can filter locations by restaurant's name and click each marker to display info window with details and a street view. 
