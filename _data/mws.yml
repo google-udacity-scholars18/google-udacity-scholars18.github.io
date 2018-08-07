@@ -169,4 +169,25 @@
 
   author_location: Antibes, France
   author_avatar: https://avatars0.githubusercontent.com/u/3286929
-  
+
+- name: Restaurant App Review
+  banner: https://i.imgur.com/oPUwZXr.jpg
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/mofouad2011/Restaurant-Reviews-Stage-3
+
+  description: |
+    A web application that list restaurants in New York city, you can filter restaurants by cuisine, also you can see reviews on the restaurant or add a review on it or even add it to your favourites. 
+
+  author: Mohammad Fouad
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/mofouad2011
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/mohammad-fouad-04553869/
+
+  author_location: Cairo, Egypt
+  author_avatar: https://i.imgur.com/EU5KD62.jpg
