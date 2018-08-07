@@ -260,7 +260,7 @@
   author_location: Egypt
   author_avatar: https://i.imgur.com/PQA4bbt.jpg
   author_links: 
-   - title: GitHub
+    - title: GitHub
       icon: github
       url: https://github.com/Bahaaib
     - title: Facebook
