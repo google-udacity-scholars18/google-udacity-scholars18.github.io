@@ -289,3 +289,24 @@
     - title: Twitter
       icon: twitter
       url: https://twitter.com/YahiaAWahab
+      
+- name: Book Memo
+  banner: https://i.imgur.com/2nJCDEi.png
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/PaulineKlein/BookMemo
+  description: You love reading Books, Comics, Mangas but you never remember which one you have already read or bought? Book Memo will help you remember all for you. With Book Memo, you will be able to create your own library directly in your phone. Not only create, but also research, export and display statistics of your library!
+  author: Pauline Klein
+  author_location: Paris, France
+  author_avatar: https://i.imgur.com/Fu0nLSH.png
+  author_links: 
+    - title: Twitter
+      icon: twitter
+      url: https://twitter.com/PaulineKlein67
+    - title: GitHub
+      icon: github
+      url: https://github.com/PaulineKlein
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/pauline-klein/
