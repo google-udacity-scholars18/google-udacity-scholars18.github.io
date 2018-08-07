@@ -227,3 +227,21 @@
     - title: LinkedIn
       icon: linkedin
       url: https://www.linkedin.com/in/d%C3%A1niel-v-917961159/
+      
+- name: Marketa 
+  banner: https://i.imgur.com/uXYe52C.jpg
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/Bahaaib/udacity-capstone-MarketaApp
+  description: The App provides an online entertainment store experience, similar to Google Play but targeting only specific entertainment types (Books, Games, and Movies). The products will be stored in a firebase real time database and provided to the app dynamically. The app will provide the users with a detailed product description and allow them to get a good overview before proceeding to any purchase. The users will have the chance to use this application in multiple devices, as it will allow them to login via firebase andwill then sync all their data across all of their devices. The users will have access to their purchases even after uninstalling the application and will be able to restoreany previously purchased apps and browse their purchase history. Users can record tracks, view them, analyze the elevation and speed/pace profiles, export them as GPX file, back them up to cloud and synchronize between devices.
+  author: Bahaa Ibrahim
+  author_location: Egypt
+  author_avatar: https://i.imgur.com/PQA4bbt.jpg
+  author_links: 
+   - title: GitHub
+      icon: github
+      url: https://github.com/Bahaaib
+    - title: Facebook
+      icon: facebook
+      url: https://www.facebook.com/iBahaa
