@@ -227,3 +227,23 @@
     - title: LinkedIn
       icon: linkedin
       url: https://www.linkedin.com/in/d%C3%A1niel-v-917961159/
+- name: RunMyWay
+  banner: https://imgur.com/6GWYZAU
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/xaenimax/RunMyWay
+  description: A new running app that allows the user to completely customize his track configuration, alternating walking and running according to the user needs, very useful especially for newbies and for people that wants to reach longer track records!
+Once the configuration is set, a voice will notify the user whether he has to walk or run and so on for each pace change. It can also save the configurations, the user can choose one of them in an easy-to-read list.
+The app also monitors the user activities, showing the distance, calories and time. 
+The app widget shows the resume of today activities (distance, calories and time)
+  author: Marina Dorelli
+  author_avatar: 
+  author_location: Italy
+  auhtor_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/marinadorelli/
+    - title: Github
+      icon: github
+      url: https://github.com/xaenimax/RunMyWay
