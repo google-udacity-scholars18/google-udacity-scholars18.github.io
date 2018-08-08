@@ -310,3 +310,28 @@
     - title: LinkedIn
       icon: linkedin
       url: https://www.linkedin.com/in/pauline-klein/
+      
+- name: Dictio
+  banner: https://i.imgur.com/6it3SiI.png
+  links:
+    - title: Play Store
+      icon: playstore
+      url: https://play.google.com/store/apps/details?id=com.mpontus.dictio
+    - title: Github
+      icon: github
+      url: https://github.com/mpontus/Dictio
+  description: |
+    Teach yourself English, Spanish, Italian, French, German, Swedish, Russian, or Turkish by speaking.
+  author: Mikhail Pontus
+  author_location: Moscow, Russia
+  author_avatar: https://avatars1.githubusercontent.com/u/2014259?s=400&u=cedbeca12335035f18aaf3744537980391b541c4&v=4
+  author_links: 
+    - title: GitHub
+      icon: github
+      url: https://github.com/mpontus
+    - title: Facebook
+      icon: facebook
+      url: https://www.facebook.com/mpontus92
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/mpontus/
