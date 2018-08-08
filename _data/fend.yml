@@ -305,3 +305,26 @@
     - title: Github Profile
       icon: github
       url: https://github.com/a-czer-a
+
+- name: Athens museums map
+  banner: https://i.imgur.com/ydmmKiJ.png
+  links:
+    - title: Live Page
+      icon: web
+      url: https://foteinik.github.io/athens-museum-map/
+    - title: Github Repo
+      icon: github
+      url: https://github.com/FoteiniK/athens-museum-map
+  description: |
+    A web application built with react and google maps.It displays a map centered on Athens,with 30 museum locations fetched from Foursquare API,and a side menu with all the museums listed .Clicking on a marker or a list-item pops up an info window with details about the selected museum.Details content is also from Foursquare. The side menu could be shown or hidden according to user needs.  There is also an option to filter the side-menu-list places in order to display  on map only the desired ones.   
+  author: Foteini Kollia
+  author_avatar: https://i.imgur.com/fcHEMRL.png
+  author_location: Athens,Greece
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https:https://www.linkedin.com/in/foteini-kollia-5632ab159/
+    - title: Github Profile
+      icon: github
+      url: https://github.com/FoteiniK
+      
