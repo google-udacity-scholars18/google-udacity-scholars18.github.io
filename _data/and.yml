@@ -18,7 +18,7 @@
 #   author: John Smith
 #   author_avatar: https://i.imgur.com/EPZaPGK.jpg
 #   author_location: St Petersburg, Russia
-#   auhtor_links:
+#   author_links:
 #     - title: LinkedIn
 #       icon: linkedin
 #       url: https://www.linkedin.com/in/myname/
@@ -346,7 +346,7 @@
      MyWay is a gps track recording application, that lets you record any outside activities. You can record biking, hiking, walking and various other activities. It shows your speed, elevation, distance, time. It lets you revisit previous recordings too.
    author: Tamás Müller
    author_avatar: https://avatars2.githubusercontent.com/u/2227374?s=460&v=4
-   auhtor_links:
+   author_links:
      - title: LinkedIn
        icon: linkedin
        url: https://www.linkedin.com/in/tam%C3%A1s-m%C3%BCller/
