@@ -336,23 +336,23 @@
       icon: linkedin
       url: https://www.linkedin.com/in/mpontus/
       
- - name: MyWay
-   banner: https://raw.githubusercontent.com/2ma/Capstone-Project/master/images/IMG_2269.JPG
-   links:
-     - title: Github
-       icon: github
-       url: https://github.com/2ma/Capstone-Project
-   description: |
-     MyWay is a gps track recording application, that lets you record any outside activities. You can record biking, hiking, walking and various other activities. It shows your speed, elevation, distance, time. It lets you revisit previous recordings too.
-   author: Tamás Müller
-   author_avatar: https://avatars2.githubusercontent.com/u/2227374?s=460&v=4
-   author_links:
-     - title: LinkedIn
-       icon: linkedin
-       url: https://www.linkedin.com/in/tam%C3%A1s-m%C3%BCller/
-     - title: Github
-       icon: github
-       url: https://github.com/2ma
-     - title: Website
-       icon: web
-       url: https://www.2ma.hu
+- name: MyWay
+  banner: https://raw.githubusercontent.com/2ma/Capstone-Project/master/images/IMG_2269.JPG
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/2ma/Capstone-Project
+  description: |
+    MyWay is a gps track recording application, that lets you record any outside activities. You can record biking, hiking, walking and various other activities. It shows your speed, elevation, distance, time. It lets you revisit previous recordings too.
+  author: Tamás Müller
+  author_avatar: https://avatars2.githubusercontent.com/u/2227374?s=460&v=4
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/tam%C3%A1s-m%C3%BCller/
+    - title: Github
+      icon: github
+      url: https://github.com/2ma
+    - title: Website
+      icon: web
+      url: https://www.2ma.hu
