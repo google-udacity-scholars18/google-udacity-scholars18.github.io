@@ -191,3 +191,23 @@
 
   author_location: Cairo, Egypt
   author_avatar: https://i.imgur.com/EU5KD62.jpg
+
+- name: Restaurant Review App
+  banner: https://i.imgur.com/71gjMz9.jpg
+  links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/RanaEmad/mws-restaurant-stage-1
+    
+  description: |
+    Through this project you can view restaurants, add them to favorites and add reviews to them. The project has been enhanced to be more accessible, available for offline usage using service workers and responsive for all device sizes.
+
+  author: Rana Emad
+  author_location: Cairo, Egypt
+  auhtor_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/rana-emad/
+    - title: Github
+      icon: github
+      url: https://github.com/RanaEmad
