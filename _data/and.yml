@@ -356,3 +356,23 @@
     - title: Website
       icon: web
       url: https://www.2ma.hu
+
+- name: QuizNerd
+  banner: https://i.imgur.com/tc02UcL.png
+  links:
+    - title: Play Store
+      icon: playstore
+      url: https://play.google.com/store/apps/details?id=com.github.n1try.quiznerd
+  description: |
+    QuizNerd is a multiplayer quiz game developed for programmers and IT enthusiasts. You can challenge your friends and compete in matches that consist of a large variety of different programming questions.
+    QuizNerd comprises over 800 different questions in 9 categories, including Android, C++, C#, HTML, Java, JavaScript, PHP, Python and Swift. 
+  author: Ferdinand Mütsch
+  author_avatar: https://avatars3.githubusercontent.com/u/8978843?s=460&v=4
+  author_location: Karlsruhe, Germany
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/n1try
+    - title: Website
+      icon: web
+      url: https://ferdinand-muetsch.de
