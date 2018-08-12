@@ -376,3 +376,28 @@
     - title: Website
       icon: web
       url: https://ferdinand-muetsch.de
+
+- name: WonderAndWander
+  banner: https://i.imgur.com/WMAKjKN.jpg
+  links:
+    - title: Play Store
+      icon: playstore
+      url: https://play.google.com/store/apps/details?id=com.projects.melih.wonderandwander.free
+    - title: Github
+      icon: github
+      url: https://github.com/melomg/Capstone-Project
+  description: |
+    WonderAndWander app is a simple app that helps you to decide whether a city is the one you are looking for, in every aspect. You can search cities, see most important things from safety to cost of living about cities. WonderAndWander app will store the cities you favorited if you logged in. This way you never need to remember which city you liked once upon a time. It also helps you to compare the cities so you can decide better. Don't wait, wonder and wander now.
+  author: Melih Gültekin
+  author_avatar: https://i.imgur.com/YPbL7DL.jpg
+  author_location: Istanbul, Turkey
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/melih-gültekin-a2a41464
+    - title: Github
+      icon: github
+      url: https://github.com/melomg
+    - title: Medium
+      icon: medium
+      url: https://medium.com/@mmelihgultekin
