@@ -20,10 +20,22 @@ html > body {
     background-color: #FAFAFA;
 }
 
+/** Constrian max width of header, content, and footer for extra-large screens */
 .max-width-container {
     width: 100%;
     max-width: 1600px;
     margin: 0 auto;
+}
+
+/** Introduce negative margins to grid-container to avoid excessive narrowing in nested grids */
+.mdl-grid {
+    margin: -8px;
+    padding: 0; // reset padding
+}
+
+/** Compensate for the lack of padding around first/last cells with content container */
+.mdl-layout__content {
+    padding: 8px;
 }
 
 /** Global supporting classes **/
