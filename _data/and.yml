@@ -402,8 +402,8 @@
       icon: medium
       url: https://medium.com/@mmelihgultekin
   
-  - name: Kuldiga tour
-  banner: https://imgur.com/a/vUbFAXe
+- name: Kuldiga tour
+  banner: https://i.imgur.com/7Mspbqz.jpg
   links:
     - title: Play Store
       icon: playstore
@@ -413,7 +413,6 @@
       url: https://github.com/IvarsGoldingen/Kuldigatour
   description: |
     The app guides you through the city of Kuldīga by giving clues to the most interesting sightseeing places. The app keeps track of how many locations have been found, when a place is found, it is added to a discovered list. When a location has been discovered, more information is provided in the app.
-
   author: Ivars Briedis
   author_location: Riga, Latvia
   author_links:
