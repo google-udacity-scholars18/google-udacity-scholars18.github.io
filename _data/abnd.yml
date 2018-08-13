@@ -18,7 +18,7 @@
 #   author: John Smith
 #   author_avatar: https://i.imgur.com/EPZaPGK.jpg
 #   author_location: St Petersburg, Russia
-#   auhtor_links:
+#   author_links:
 #     - title: LinkedIn
 #       icon: linkedin
 #       url: https://www.linkedin.com/in/myname/
@@ -27,6 +27,7 @@
 #       url: https://github.com/myname/myapp
 #      
 # v- Add new projects to the end of the file
+
 - name: NewsReader
   banner: https://i.imgur.com/OV8xQfZ.jpg
   links:
@@ -154,7 +155,29 @@
     - title: LinkedIn
       icon: linkedin
       url: https://www.linkedin.com/in/osama-chaban-a85a7115/
-      
+  
+- name: Lisbon Tour Guide App
+  banner: https://i.imgur.com/0xtzQPV.png
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/whybandre/LisbonTourGuideApp
+  description: |
+    In this app you can find 6 different cool places in Lisbon per category: art and culure, eat, drink and parks!
+    There you can find description of amazing areas in different neighborhoods! From bookshops to a historic tram 28!
+    Come visit Lisbon!
+    
+  author: Bruno André
+  author_avatar: https://i.imgur.com/nMYqGvB.png
+  author_location: Lisbon, Portugal
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/whybandre/
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/brunorfandre/  
+
 - name: CityGuideIST
   banner: https://i.imgur.com/bhAdHeg.png
   links:

@@ -293,6 +293,9 @@
 - name: Book Memo
   banner: https://i.imgur.com/2nJCDEi.png
   links:
+    - title: Play Store
+      icon: playstore
+      url: https://play.google.com/store/apps/details?id=com.pklein.bookmemo
     - title: Github
       icon: github
       url: https://github.com/PaulineKlein/BookMemo
@@ -356,3 +359,87 @@
     - title: Website
       icon: web
       url: https://www.2ma.hu
+
+- name: QuizNerd
+  banner: https://i.imgur.com/tc02UcL.png
+  links:
+    - title: Play Store
+      icon: playstore
+      url: https://play.google.com/store/apps/details?id=com.github.n1try.quiznerd
+  description: |
+    QuizNerd is a multiplayer quiz game developed for programmers and IT enthusiasts. You can challenge your friends and compete in matches that consist of a large variety of different programming questions.
+    QuizNerd comprises over 800 different questions in 9 categories, including Android, C++, C#, HTML, Java, JavaScript, PHP, Python and Swift. 
+  author: Ferdinand Mütsch
+  author_avatar: https://avatars3.githubusercontent.com/u/8978843?s=460&v=4
+  author_location: Karlsruhe, Germany
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/n1try
+    - title: Website
+      icon: web
+      url: https://ferdinand-muetsch.de
+
+- name: WonderAndWander
+  banner: https://i.imgur.com/Bk99VAT.jpg
+  links:
+    - title: Play Store
+      icon: playstore
+      url: https://play.google.com/store/apps/details?id=com.projects.melih.wonderandwander.free
+    - title: Github
+      icon: github
+      url: https://github.com/melomg/Capstone-Project
+  description: |
+    WonderAndWander app is a simple app that helps you to decide whether a city is the one you are looking for, in every aspect. You can search cities, see most important things from safety to cost of living about cities. WonderAndWander app will store the cities you favorited if you logged in. This way you never need to remember which city you liked once upon a time. It also helps you to compare the cities so you can decide better. Don't wait, wonder and wander now.
+  author: Melih Gültekin
+  author_avatar: https://i.imgur.com/YPbL7DL.jpg
+  author_location: Istanbul, Turkey
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/melih-gültekin-a2a41464
+    - title: Github
+      icon: github
+      url: https://github.com/melomg
+    - title: Medium
+      icon: medium
+      url: https://medium.com/@mmelihgultekin
+  
+- name: Kuldiga tour
+  banner: https://i.imgur.com/7Mspbqz.jpg
+  links:
+    - title: Play Store
+      icon: playstore
+      url: https://play.google.com/store/apps/details?id=com.goldingenapps.ivars.kuldigatour
+    - title: GitHub
+      icon: github
+      url: https://github.com/IvarsGoldingen/Kuldigatour
+  description: |
+    The app guides you through the city of Kuldīga by giving clues to the most interesting sightseeing places. The app keeps track of how many locations have been found, when a place is found, it is added to a discovered list. When a location has been discovered, more information is provided in the app.
+  author: Ivars Briedis
+  author_location: Riga, Latvia
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/IvarsGoldingen
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/ivars-briedis-2255b4b1/
+
+- name: WhatsInMyFridge
+  banner: https://i.imgur.com/445Dd3L.png
+  links: 
+    - title: GitHub
+      icon: github
+      url: https://github.com/dibellaa/Capston-Project
+  description: |
+    WhatsInMyFridge helps you to do not waste your ingredients proposing to you simple recipes. You add what you have in the dispensation and WhatsInMyFridge will suggest to you the dish that does to your case!
+  author: Alessandro DI BELLA
+  author_location: Nice, France
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/dibellaa
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/dib-alessandro/
