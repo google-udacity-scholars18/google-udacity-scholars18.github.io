@@ -422,3 +422,21 @@
     - title: LinkedIn
       icon: linkedin
       url: https://www.linkedin.com/in/ivars-briedis-2255b4b1/
+
+- name: WhatsInMyFridge
+  banner: https://github.com/dibellaa/Capston-Project/blob/master/Screenshots/4.PNG
+  links: 
+    - title: GitHub
+      icon: github
+      url: https://github.com/dibellaa/Capston-Project
+  description: |
+    WhatsInMyFridge helps you to do not waste your ingredients proposing to you simple recipes. You add what you have in the dispensation and WhatsInMyFridge will suggest to you the dish that does to your case!
+  author: Alessandro DI BELLA
+  author_location: Nice, France
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/dibellaa
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/dib-alessandro/
