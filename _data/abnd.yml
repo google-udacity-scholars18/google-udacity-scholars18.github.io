@@ -176,5 +176,28 @@
       url: https://github.com/whybandre/
     - title: LinkedIn
       icon: linkedin
-      url: https://www.linkedin.com/in/brunorfandre/  
+      url: https://www.linkedin.com/in/brunorfandre/ 
+      
+- name: CityGuideIST
+  banner: https://i.imgur.com/bhAdHeg.png
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/cyeksan/CityGuideIST
+    - title: Youtube
+      icon: youtube
+      url: https://www.youtube.com/watch?v=O0XCcH9MejQ
+  description: |
+    App gives useful information for an İstanbul tour.
+    
+  author: Cansu Aktas
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/cyeksan
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/cansu-yeksan-aktas/
 
+  author_location: Tekirdag, Turkey
+  author_avatar: https://i.imgur.com/ma48Pfe.jpg
