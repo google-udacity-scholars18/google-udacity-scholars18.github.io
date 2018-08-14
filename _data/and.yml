@@ -443,3 +443,26 @@
     - title: LinkedIn
       icon: linkedin
       url: https://www.linkedin.com/in/dib-alessandro/
+ 
+- name: BringCloser
+  banner: https://i.imgur.com/DAxscEN.jpg
+  links:
+    - title: Play Store
+      icon: playstore
+      url: https://play.google.com/store/apps/details?id=karsai.laszlo.bringcloser
+  description: |
+    Remember all your memories relating to your close people by using this app, the BringCloser. 
+    Brush up your and your close people’s lives by giving and/or receiving: 
+    - wish on a specific occurrence (e.g. birthday, name day, international women’s day, mother’s day, father’s day, etc.),
+    - reminder on a scheduled event (e.g. school leaving exam, interview for the dream job, etc.), and 
+    - private thoughts on a key happening (e.g. first date, first anniversary, first flowers to buy someone, etc.).
+    While the wish and the scheduled event are pretty straightforward, private thought may require more explanation. This item does not get shared with your close person immediately (except if you want so) but stored and you can share it manually anytime you want. 
+    This app focuses on your memories (interactions with close people) from your everyday life, and to give it back in a smooth manner.
+
+  author: László Karsai
+  author_avatar: https://i.imgur.com/QtySRqR.jpg
+  author_location: Gothenburg, Sweden
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/laszlo-karsai-for-development/
