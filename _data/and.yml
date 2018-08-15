@@ -481,7 +481,7 @@
       url: https://github.com/kreikenbaum/suntime-app
 
     - title: Fdroid
-      icon: web
+      icon: fdroid
       url: https://f-droid.org/en/packages/com.gitlab.kreikenbaum.suntime.fdroid/
 
 

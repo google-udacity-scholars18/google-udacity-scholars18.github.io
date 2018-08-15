@@ -53,6 +53,7 @@ You may use following icons in your **`links`** and `author_links`:
 |`twitter`|Twitter Profile Icon|
 |`youtube`|Youtube Profile Icon|
 |`googleplus`|G+ Profile Icon|
+|`fdroid`|Fdroid Store Icon|
 
 ## Contribute
 
