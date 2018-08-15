@@ -61,7 +61,7 @@
       icon: github
       url: https://github.com/rozzilla/mws-restaurant-stage-3
   description: |
-    Read informations about restaurants, add them to your favourites, write and read reviews.
+    Read information about restaurants, add them to your favorites, write and read reviews.
     And do it offline at all (thanks to the Service Worker and IndexedDb)!
     
   author: Roberto Bianchi
