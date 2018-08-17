@@ -27,7 +27,6 @@
 #       url: https://github.com/myname/myapp
 #      
 # v- Add new projects to the end of the file
-
 - name: BookInHand
   banner: https://i.imgur.com/Rk5GVoU.png
   links:
@@ -467,8 +466,6 @@
       icon: linkedin
       url: https://www.linkedin.com/in/laszlo-karsai-for-development/
 
-
-
 - name: Sun Time
   banner: https://i.imgur.com/tgcAX6S.png
   links:
@@ -494,3 +491,26 @@
     - title: LinkedIn
       icon: linkedin
       url: https://www.linkedin.com/in/michael-kreikenbaum/
+
+- name: OpenDo
+  banner: https://i.imgur.com/76rEfAu.png
+  links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/Mika412/OpenDo_ToDo_App_Capstone-Project
+  description: |
+    OpenDo is a simple, open source smart task list that makes it easy to plan your day. Whether for work, school or home, OpenDo helps you increase productivity and reduce stress. The app was built for Udacity Android Nanodegree Capstone project and uses Firebase as it's backend.
+
+  author: Mykhaylo Marfeychuk
+  author_avatar: https://i.imgur.com/OgOGZgf.jpg
+  author_location: Faro, Portugal
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/Mika412
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/mykhamarf/
+    - title: Facebook
+      icon: facebook
+      url: https://www.facebook.com/profile.php?id=1097445801
