@@ -467,7 +467,7 @@
       url: https://www.linkedin.com/in/laszlo-karsai-for-development/
 
 - name: OpenDo
-  banner: https://imgur.com/a/44q13mT
+  banner: https://i.imgur.com/76rEfAu.png
   links:
     - title: GitHub
       icon: github
@@ -476,7 +476,7 @@
     OpenDo is a simple, open source smart task list that makes it easy to plan your day. Whether for work, school or home, OpenDo helps you increase productivity and reduce stress. The app was built for Udacity Android Nanodegree Capstone project and uses Firebase as it's backend.
 
   author: Mykhaylo Marfeychuk
-  author_avatar: https://imgur.com/a/58DpJ0p
+  author_avatar: https://i.imgur.com/OgOGZgf.jpg
   author_location: Faro, Portugal
   author_links:
     - title: GitHub
