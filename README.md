@@ -40,8 +40,9 @@ You may use following icons in your **`links`** and `author_links`:
 
 |`icon`||
 |-|-|
-|`playstore`|<img src="https://androiddevscholarship.github.io/ud851-emea/assets/Google_play_icon.png" width="16" height="16" /> Play Store Link|
-|`web`|<img src="https://androiddevscholarship.github.io/ud851-emea/assets/Network_icon.png" width="16" height="16"/> Website Link|
+|`playstore`|<img src="/assets/Google_play_icon.png" width="16" height="16" /> Play Store Link|
+|`fdroid`|<img src="/assets/fdroid-logo.png" width="16" height="16"/> F-Droid Link|
+|`web`|<img src="/assets/Network_icon.png" width="16" height="16"/> Website Link|
 |`medium`|Medium Profile Icon|
 |`dribbble`|Dribbble Profile Icon|
 |`facebook`|Facebook Profile Icon|
