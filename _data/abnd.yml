@@ -201,3 +201,25 @@
 
   author_location: Tekirdag, Turkey
   author_avatar: https://i.imgur.com/ma48Pfe.jpg
+  
+- name: Phone Inventory App
+  banner: https://i.imgur.com/66urYA6.png
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/javierfurus/InventoryApp2
+  description: |
+   This app displays a list of products within a database. 
+   It lets the user add, edit or remove products from it. 
+   It also allows the user to get in touch with the supplier of a product!
+  
+  author: Javier Furus
+  author_avatar: https://i.imgur.com/snq39ghh.jpg
+  author_location: Szeged, Hungary
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/javierfurus/
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/javier-furus-b6b1a6108
