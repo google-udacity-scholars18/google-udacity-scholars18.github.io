@@ -27,6 +27,25 @@
 #       url: https://github.com/myname/myapp
 #      
 # v- Add new projects to the end of the file
+- name: OpenDo
+  banner: https://imgur.com/a/44q13mT
+  links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/Mika412/OpenDo_ToDo_App_Capstone-Project
+  description: |
+    OpenDo is a simple, open source smart task list that makes it easy to plan your day. Whether for work, school or home, OpenDo helps you increase productivity and reduce stress. The app was built for Udacity Android Nanodegree Capstone project and uses Firebase as it's backend.
+
+  author: Mykhaylo Marfeychuk
+  author_avatar: https://imgur.com/a/58DpJ0p
+  author_location: Faro, Portugal
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/Mika412
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/mykhamarf/
 
 - name: BookInHand
   banner: https://i.imgur.com/Rk5GVoU.png
