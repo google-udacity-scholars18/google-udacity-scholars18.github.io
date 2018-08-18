@@ -537,3 +537,19 @@
     - title: LinkedIn
       icon: linkedin
       url: https://www.linkedin.com/in/erdemtsynduev/
+      
+- name: Weigh Your Guinea Pigs
+  banner: https://i.imgur.com/tRFAt5H.png
+  links:
+    - title: Play Store
+      icon: playstore
+      url: https://play.google.com/store/apps/details?id=com.novembergave.weighyourguineapigs
+  description: |
+    Weigh your guinea pig is an app that would allow you to easily keep track of your guinea pigs on your phone, saving the need for spreadsheets or even pen and paper.
+  author: Teresa November
+  author_avatar: https://i.imgur.com/rtq7AVt.jpg
+  author_location: London, United Kingdom
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/novembergave
