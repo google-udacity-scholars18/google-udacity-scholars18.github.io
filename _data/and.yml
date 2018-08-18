@@ -514,3 +514,26 @@
     - title: Facebook
       icon: facebook
       url: https://www.facebook.com/profile.php?id=1097445801
+      
+- name: Profitcoin
+  banner: https://i.imgur.com/dKXzpTA.png
+  links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/Erdemtsynduev/project-profitcoin-androidApp
+  description: |
+    PROFITCON is a Navigator in the cryptocurrency world. The application will help you to track changes in the value of cryptocurrencies, 
+    make a portfolio with your coins. In the app you can find all the popular cryptocurrencies including Bitcoin (Bitcoin), 
+    Ethereum, Ripple, Litecoin, IOTA, Cardano, Stellar and many others. Data on the current value of cryptocurrencies are 
+    collected automatically, based on the CoinMarketCap service rates. The application displays the current rate and the 
+    corresponding balance of the user's assets.
+  author: Erdem Tsynduev
+  author_avatar: https://i.imgur.com/5pnWAgi.jpg
+  author_location: Chita, Russia
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/Erdemtsynduev
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/erdemtsynduev/
