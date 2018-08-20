@@ -228,27 +228,27 @@
   banner: https://imgur.com/VIvX54x
   links:
     - title: Github
-    icon: github
-    url: https://github.com/GretaGri/VilniusGuide
+      icon: github
+      url: https://github.com/GretaGri/VilniusGuide
     - title: Youtube
-    icon: youtube
-    url: https://youtu.be/tGygX9gTosk
+      icon: youtube
+      url: https://youtu.be/tGygX9gTosk
   description: |
-  This application, the 5th project of Android Basics Nanodegree, introduces users to VILNIUS, capital city of Lithuania:
-  unique design with b&w pictures, corresponding font, nice coordinator layout that hides views when scrolling,
-  6 lists filled with attractive objects, each one has description page with links to Google map, further info, etc., 
-  possiblity for user to make your own Favorites list. 
+    This application, the 5th project of Android Basics Nanodegree, introduces users to VILNIUS, capital city of Lithuania:
+    unique design with b&w pictures, corresponding font, nice coordinator layout that hides views when scrolling,
+    6 lists filled with attractive objects, each one has description page with links to Google map, further info, etc., 
+    possiblity for user to make your own Favorites list. 
 
   author: Greta Grigutė
   author_avatar: https://imgur.com/aSykQFA
   author_location: Vilnius, Lithuania
   author_links:
     - title: LinkedIn
-    icon: linkedin
-    url: https://www.linkedin.com/in/greta-grigute-0a22b5154/
+      icon: linkedin
+      url: https://www.linkedin.com/in/greta-grigute-0a22b5154/
     - title: Github
-    icon: github
-    url: https://github.com/GretaGri/
+      icon: github
+      url: https://github.com/GretaGri/
     - title: Medium
-    icon: medium
-    url: https://medium.com/@greta.klimaite
+      icon: medium
+      url: https://medium.com/@greta.klimaite
