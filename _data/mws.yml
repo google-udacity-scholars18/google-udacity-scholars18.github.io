@@ -28,6 +28,27 @@
 #      
 # v- Add new projects to the end of the file
 
+- name: Restaurant Reviews
+  banner: http://www.picshare.ru/view/8925380.png
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/aelbasioni/web-restaurant-reviews    
+  description: |
+    A web application in which the criteria of responsive design, accessibility, and offline-first techniques are applied to list, filter, add to favs, and add reviews to restaurants in the neighborhood
+    
+  author: Asmaa El-Basioni
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/aelbasioni/
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/aelbasioni/
+
+  author_location: Cairo, Egypt
+  author_avatar: https://ca.slack-edge.com/T6EMJCWH2-U9E4JDE5T-f76902b57e16-72
+  
 - name: RestaurantApp
   banner: https://i.imgur.com/0nVHgZF.png
   links:
