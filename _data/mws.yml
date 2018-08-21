@@ -211,3 +211,24 @@
     - title: Github
       icon: github
       url: https://github.com/RanaEmad
+
+- name: Restaurant Reviews
+  banner: https://i.imgur.com/liS1ZKw.jpg
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/aelbasioni/web-restaurant-reviews    
+  description: |
+    A web application in which the criteria of responsive design, accessibility, and offline-first techniques are applied to list, filter, add to favs, and add reviews to restaurants in the neighborhood
+    
+  author: Asmaa El-Basioni
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/aelbasioni/
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/aelbasioni/
+
+  author_location: Cairo, Egypt
+  author_avatar: https://i.imgur.com/vmNPxjf.jpg
