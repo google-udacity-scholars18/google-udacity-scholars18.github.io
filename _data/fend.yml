@@ -355,4 +355,24 @@
       icon: twitter
       url: https://twitter.com/ak_Qandel
 
-      
+- name: Newcastle upon Tyne Map
+  banner: https://i.imgur.com/VnuJ00z.jpg
+  links:
+    - title: Live Page
+      icon: web
+      url: https://markoboy.github.io/Newcastle-NeighboorhoodMap/
+    - title: Github Repo
+      icon: github
+      url: https://github.com/markoboy/Newcastle-NeighboorhoodMap
+  description: |
+    An interactive and responsive web application built with React JS, Google Maps API, Forsquare API and Unsplash API. The map is centered in the city centre of Newcastle upon Tyne and it is showing 15 locations that are fetched from the Forsquare API.
+  author: Athanasios Markou
+  author_avatar: https://avatars0.githubusercontent.com/u/35178536?s=460&v=4
+  author_location: Newcastle upon Tyne, UK
+  author_links:
+    - title: Linked In
+      icon: linkedin
+      url: https://www.linkedin.com/in/a-markou/
+    - title: Github Profile
+      icon: github
+      url: https://github.com/markoboy
