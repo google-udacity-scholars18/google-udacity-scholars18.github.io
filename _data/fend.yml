@@ -328,3 +328,31 @@
       icon: github
       url: https://github.com/FoteiniK
       
+- name: Late Nights
+  banner: https://i.imgur.com/5BpafvM.jpg
+  links:
+    - title: Live Page
+      icon: web
+      url: https://ahmedkorim.github.io/nighborhood-map/
+    - title: Github Repo
+      icon: github
+      url: https://github.com/AhmedKorim/nighborhood-map
+  description: |
+    Interactive accessible map with  places in Berlin.
+    chose your favourite and see it's image and street panorama 
+   
+  author: Ahmed Korim
+  author_avatar: https://i.imgur.com/Uz7Up7B.png
+  author_location: Ain-Shams Cairo, Egypt
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/ahmed-korrim/
+    - title: Github Profile
+      icon: github
+      url: https://github.com/AhmedKorim/
+    - title: Twitter Profile
+      icon: twitter
+      url: https://twitter.com/ak_Qandel
+
+      
