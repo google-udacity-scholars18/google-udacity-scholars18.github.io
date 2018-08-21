@@ -572,3 +572,23 @@
     - title: Github
       icon: github
       url: https://github.com/emadabel
+      
+- name: Vegginner
+  banner: https://imgur.com/IQr8g6X
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/juancoob/Vegginner
+  description: |
+     App to change our consumption habits, fight against climate change and take part of relieving the world in hunger in our everyday life.
+  author: Juan Antonio Cobos Obrero
+  author_location: Córdoba, Spain
+  author_avatar: https://imgur.com/a/O74jRE9
+  author_links:
+    - title: Github
+      icon: github
+      url: https://github.com/juancoob
+    - title: Linkedin
+      icon: linkedin
+      url: https://www.linkedin.com/in/juan-antonio-cobos-obrero-51401843/
+
