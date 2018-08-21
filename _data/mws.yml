@@ -232,3 +232,25 @@
 
   author_location: Cairo, Egypt
   author_avatar: https://i.imgur.com/vmNPxjf.jpg
+  
+- name: Restaurant Reviews App
+  banner: https://i.imgur.com/DHDADc5.jpg
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/vozglas/mws-restaurant-stage-1
+
+  description: |
+    Restaurant Reviews Web App.
+    It's performant, accessible and mobile ready web application. Can work online and offline.
+    
+  author: Andrey Bozhinskiy
+  author_avatar: https://i.imgur.com/jdatXZA.jpg
+  author_location: Moscow, Russia
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/vozglas
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/andreybozhinskiy/
