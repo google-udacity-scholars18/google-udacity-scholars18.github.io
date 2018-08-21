@@ -233,8 +233,8 @@
   author_location: Cairo, Egypt
   author_avatar: https://i.imgur.com/vmNPxjf.jpg
   
-  - name: Restaurant Reviews App
-  banner: https://i.imgur.com/jwzvlHi.png
+- name: Restaurant Reviews App
+  banner: https://i.imgur.com/DHDADc5.jpg
   links:
     - title: Github
       icon: github
@@ -245,7 +245,7 @@
     It's performant, accessible and mobile ready web application. Can work online and offline.
     
   author: Andrey Bozhinskiy
-  author_avatar: https://i.imgur.com/xtBQNcd.png
+  author_avatar: https://i.imgur.com/jdatXZA.jpg
   author_location: Moscow, Russia
   author_links:
     - title: GitHub
