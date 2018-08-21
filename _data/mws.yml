@@ -27,7 +27,7 @@
 #       url: https://github.com/myname/myapp
 #      
 # v- Add new projects to the end of the file
-  
+
 - name: RestaurantApp
   banner: https://i.imgur.com/0nVHgZF.png
   links:
@@ -213,7 +213,7 @@
       url: https://github.com/RanaEmad
 
 - name: Restaurant Reviews
-  banner: https://i.imgur.com/vmNPxjf.jpg
+  banner: https://i.imgur.com/liS1ZKw.jpg
   links:
     - title: Github
       icon: github
@@ -231,4 +231,4 @@
       url: https://www.linkedin.com/in/aelbasioni/
 
   author_location: Cairo, Egypt
-  author_avatar: https://i.imgur.com/liS1ZKw.jpg
+  author_avatar: https://i.imgur.com/vmNPxjf.jpg
