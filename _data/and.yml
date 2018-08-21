@@ -553,3 +553,22 @@
     - title: GitHub
       icon: github
       url: https://github.com/novembergave
+
+- name: My Dishes
+  banner: https://i.imgur.com/5aw9nd3.jpg
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/emadabel/My-Dishes
+  description: |
+    My Dishes is a cooking recipes App, you can search with some keywords to get the full recipe for your delicious meal or enter some ingredients and you will get your recipe, And you can save at favourites and explorer it offline.
+  author: Emad Abd Elhamid
+  author_avatar: https://i.imgur.com/ztvKcme.jpg
+  author_location: Alexandria, Egypt
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/emadabel/
+    - title: Github
+      icon: github
+      url: https://github.com/emadabel
