@@ -592,3 +592,30 @@
       icon: linkedin
       url: https://www.linkedin.com/in/juan-antonio-cobos-obrero-51401843/
 
+- name: Local Radio
+  banner: https://i.imgur.com/25yx9zU.png
+  links:
+    - title: Play Store
+      icon: playstore
+      url: https://play.google.com/store/apps/details?id=io.github.vladimirmi.localradio
+    - title: Github
+      icon: github
+      url: https://github.com/VladimirMi/LocalRadio
+
+  description: |
+    Local Radio is an app for searching and listening to radio broadcasts over the internet.
+    It can:
+    - search from the UberStations directory with more than 30000 live radio stations across the world.
+    - search broadcasts based on country and/or city.
+    - search for stations in a specific area on the map.
+
+  author: Vladimir Mikhalev
+  author_location: Belgorod, Russia
+  author_links:
+    - title: Github
+      icon: github
+      url: https://github.com/VladimirMi/LocalRadio
+    - title: Linkedin
+      icon: linkedin
+      url: www.linkedin.com/in/vladimirmi
+      
