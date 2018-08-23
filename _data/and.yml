@@ -619,3 +619,21 @@
       icon: linkedin
       url: www.linkedin.com/in/vladimirmi
       
+- name: Kitchen Assistant
+  banner: https://raw.githubusercontent.com/MusapKahraman/KitchenAssistant/master/docs/Screenshot_login.png
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/MusapKahraman/KitchenAssistant
+  description: |
+    Kitchen Assistant helps you track your food, prepare a meal plan and create a shopping list. In addition to that, you can either select recipes from the public database or add your own and see how much people like it.
+  author: Musap Kahraman
+  author_avatar: https://avatars0.githubusercontent.com/u/20577764?s=400&u=a249595695976c5e2065e084e33c07cb17c86f4f&v=4
+  author_location: Trabzon, Turkey
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/musap-k-919b0314b/
+    - title: Github
+      icon: github
+      url: https://github.com/MusapKahraman
