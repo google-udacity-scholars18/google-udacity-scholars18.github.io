@@ -619,3 +619,27 @@
       icon: linkedin
       url: www.linkedin.com/in/vladimirmi
       
+- name: Events Around
+  banner: https://i.imgur.com/GuIHDzm.png
+  links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/McCrog/EventsAround
+  description: |
+    Are you interested in life and events around? The app will help you find interesting 
+    events around your placement. Conferences, meetings, games, music events, warnings, etc.
+    Did you notice something interesting or are you the organizer of the event? Feel free 
+    to share with others. The application allows you to add several types of events with 
+    an indication of the exact location.
+  author: Alexander Gorshunov
+  author_avatar: https://i.imgur.com/hQ72X3H.jpg?1
+  author_location: Vladimir, Russia
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/McCrog
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/alexander-gorshunov/
+      
+ 
