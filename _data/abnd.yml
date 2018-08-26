@@ -297,7 +297,7 @@
  
   author_location: Bologna, Italy
   
-  - name: Medicines Inventory App
+- name: Medicines Inventory App
   banner: https://i.imgur.com/QXZZ1kP.png
   links:
     - title: Github
