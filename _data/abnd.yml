@@ -252,3 +252,47 @@
     - title: Medium
       icon: medium
       url: https://medium.com/@greta.klimaite
+
+- name: Quiz App
+  banner: https://i.imgur.com/RXMjmfG.jpg
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/AmrDeveloper/Android/tree/master/Basics%20Nanodegree/Educational%20App
+  description: |
+    An app for generate infinite number of Random math questions , every level is harder than previous level 
+    , enjoy and play for every.
+    
+  author: AmrDeveloper
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/AmrDeveloper
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/AmrDeveloper
+    - title: Facebook
+      icon: facebook
+      url: https://www.facebook.com/AmrDeveloper
+
+  author_location: Alexandria , Egypt
+  author_avatar: https://i.imgur.com/ePmn1uj.jpg
+  
+- name: Different Bologna Tour Guide App
+  banner: https://i.imgur.com/s2JrQM9.png
+  links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/Boccialex/DifferentBologna
+  description: |
+    5th Project for Udacity.
+    It's a simple tour guide app of Bologna: in the 4 tabs it shows different activities to be done within the town. 
+    The last tab provides easy sentences to be heard in the local dialect
+   
+  author: Francesca Borsari
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/francesca-borsari-68687832/
+ 
+  author_location: Bologna, Italy

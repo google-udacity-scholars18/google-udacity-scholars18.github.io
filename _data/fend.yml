@@ -376,3 +376,25 @@
     - title: Github Profile
       icon: github
       url: https://github.com/markoboy
+      
+- name: Castles around the world
+  banner: https://i.imgur.com/roaYwG2.png
+  links:
+    - title: Live Page
+      icon: web
+      url: https://scruffy21.github.io/ND-Castles-React-Map/
+    - title: Github Repo
+      icon: github
+      url: https://github.com/Scruffy21/ND-Castles-React-Map
+  description: |
+    A map application built with React that shows all found instances of a 'castle' from Wikipedia. On clicking a marker, a brief description of the castle will appear.
+  author: Bartek Burkot
+  author_avatar: https://avatars2.githubusercontent.com/u/34596469?s=460&v=4
+  author_location: Kraków, Poland
+  author_links:
+    - title: Linked In
+      icon: linkedin
+      url: https://www.linkedin.com/in/bartek-burkot-541334157/
+    - title: Github Profile
+      icon: github
+      url: https://github.com/Scruffy21

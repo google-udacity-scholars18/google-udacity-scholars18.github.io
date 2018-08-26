@@ -254,3 +254,30 @@
     - title: LinkedIn
       icon: linkedin
       url: https://www.linkedin.com/in/andreybozhinskiy/
+
+- name: MWS Restaurant Reviews
+  banner: https://i.imgur.com/AQMpyHH.jpg
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/dw72/mws-restaurant
+
+  description: |
+    Udacity's "Mobile Web Specialist Restaurant Reviews App" Project
+    
+  author: Dariusz Włodarczyk
+  author_avatar: https://i.imgur.com/br5bX2c.jpg
+  author_location: Krotoszyn, Poland
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/dw72
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/dw72pl
+    - title: Twitter
+      icon: twitter
+      url: https://twitter.com/dw72pl
+    - title: Facebook
+      icon: facebook
+      url: https://www.facebook.com/dw72pl
