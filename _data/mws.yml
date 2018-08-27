@@ -282,7 +282,7 @@
       icon: facebook
       url: https://www.facebook.com/dw72pl
       
-      - name: Restaurant Review App
+- name: Restaurant Review App
   banner: https://i.imgur.com/LR6sAfK.png
   links:
     - title: Github
