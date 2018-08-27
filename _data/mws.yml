@@ -281,3 +281,30 @@
     - title: Facebook
       icon: facebook
       url: https://www.facebook.com/dw72pl
+      
+      - name: Restaurant Review App
+  banner: https://i.imgur.com/LR6sAfK.png
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/mas-designs/mws-restaurant-stage-1
+
+  description: |
+    Restaurant Review App built in PWA principles
+    
+  author: Michael Stadler
+  author_avatar: https://avatars3.githubusercontent.com/u/24718174
+  author_location: Vienna, Austria
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/mas-designs/
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/mas-vienna/
+    - title: Twitter
+      icon: twitter
+      url: https://twitter.com/mas_designs
+    - title: Instagram
+      icon: instagram
+      url: https://www.instagram.com/mas_webdev/
