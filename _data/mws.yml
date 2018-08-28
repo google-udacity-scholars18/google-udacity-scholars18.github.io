@@ -340,14 +340,16 @@
       url: https://medium.com/@moumensoliman
       
       
-  - name: Restaurant Review App
+- name: Restaurant Review App
   banner: https://i.imgur.com/VckTBgn.png
   links:
     - title: Github
       icon: github
       url: https://github.com/red17electro/mws-restaurant
+      
   description: |
     A Restaurant Reviews Project, which I implemented for Udacity Web Specialist Nanodegree.
+    
   author: Server Khalilov
   author_avatar: https://avatars2.githubusercontent.com/u/16454623?s=460&v=4
   author_location: Kaiserslautern, Germany
