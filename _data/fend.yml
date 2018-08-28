@@ -420,3 +420,28 @@
     - title: Github Profile
       icon: github
       url: https://github.com/ewastasiak
+
+- name: Neighbourhood map
+  banner: https://i.imgur.com/9B89w1N.png
+  links:
+    - title: Live Page
+      icon: web
+      url: https://github.com/bermartinv/js-map-react
+    - title: Github Repo
+      icon: github
+      url: https://github.com/bermartinv/js-map-react
+  description: |
+     React App with Valencia monuments. Conect monuments with Google Maps and Wikiloc API.
+  author: Bernardo Martín
+  author_avatar: https://es.gravatar.com/userimage/82616042/c825f0740ef80397b0daad0a36b285ca.jpg
+  author_location: Valencia, Spain
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/bernardo-martin/
+    - title: Github
+      icon: github
+      url: https://github.com/bermartinv
+    - title: Twitter Profile
+      icon: twitter
+      url: https://twitter.com/bermartinv2
