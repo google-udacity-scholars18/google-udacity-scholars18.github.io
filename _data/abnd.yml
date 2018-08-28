@@ -325,7 +325,7 @@
   author_location: Alexandria , Egypt
   author_avatar: https://i.imgur.com/LLCmx9l.png
   
-  - name: Book Inventory App
+- name: Book Inventory App
   banner: https://i.imgur.com/hgvGErG.png
   links:
     - title: Github
