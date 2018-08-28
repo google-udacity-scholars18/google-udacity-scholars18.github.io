@@ -27,27 +27,6 @@
 #       url: https://github.com/myname/myapp
 #      
 # v- Add new projects to the end of the file
-- name: Xpenso
-  banner: https://i.imgur.com/aFOJGjX.png
-  links:
-    - title: Play Store
-      icon: playstore
-      url: https://play.google.com/store/apps/details?id=com.liviurau.xpenso.free
-  description: |
-Did you ever rented a house and forgot to pay the bills? 
-Did you wondered how to keep track of all these expenses? The electricity bill, council tax or satelite TV subscription, you name it.
-Xpenso was built to solve this problem and notify you when it’s time to pay your bills, rates or rents.
-
-  author: Liviu Rau
-  author_avatar: https://i.imgur.com/hLsaBM7.jpg
-  author_location: Bucharest, Romania
-  author_links:
-    - title: GitHub
-      icon: github
-      url: https://github.com/livrax
-    - title: LinkedIn
-      icon: linkedin
-      url: https://www.linkedin.com/in/rauliviu/
 
 - name: BookInHand
   banner: https://i.imgur.com/Rk5GVoU.png
@@ -682,3 +661,25 @@ Xpenso was built to solve this problem and notify you when it’s time to pay yo
     - title: Github
       icon: github
       url: https://github.com/MusapKahraman
+
+- name: Xpenso
+  banner: https://i.imgur.com/aFOJGjX.png
+  links:
+    - title: Play Store
+      icon: playstore
+      url: https://play.google.com/store/apps/details?id=com.liviurau.xpenso.free
+  description: |
+    Did you ever rented a house and forgot to pay the bills? 
+    Did you wondered how to keep track of all these expenses? The electricity bill, council tax or satelite TV subscription, you name it.
+    Xpenso was built to solve this problem and notify you when it’s time to pay your bills, rates or rents.
+
+  author: Liviu Rau
+  author_avatar: https://i.imgur.com/hLsaBM7.jpg
+  author_location: Bucharest, Romania
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/livrax
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/rauliviu/
