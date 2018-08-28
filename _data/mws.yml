@@ -309,6 +309,36 @@
       icon: instagram
       url: https://www.instagram.com/mas_webdev/
    
+- name: Restaurant Review App
+  banner: https://i.imgur.com/LR6sAfK.png
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/moumen-soliman/mws-restaurant-stage-3
+
+  description: |
+    Restaurant Review App built in PWA principles
+    
+  author: Moumen Soliman
+  author_avatar: https://avatars3.githubusercontent.com/u/24474287?s=460&v=4
+  author_location: Cairo, Egypt
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/moumen-soliman
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/moumensoliman
+    - title: Twitter
+      icon: twitter
+      url: https://twitter.com/moumensoliman
+    - title: Instagram
+      icon: instagram
+      url: https://www.instagram.com/moumensoliman/
+    - title: Medium
+      icon: medium
+      url: https://medium.com/@moumensoliman
+
 - name: RestaurantApp
   banner: https://i.imgur.com/r2QrkSb.png
   links:
@@ -330,5 +360,4 @@
       url: https://www.linkedin.com/in/vlad-alexandru-ghenade/
 
   author_location: Comanesti, Romania
-  author_avatar: https://avatars3.githubusercontent.com/u/8360001
-      
+  author_avatar: https://avatars3.githubusercontent.com/u/8360001    
