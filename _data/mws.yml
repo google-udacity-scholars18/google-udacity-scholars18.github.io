@@ -338,3 +338,26 @@
     - title: Medium
       icon: medium
       url: https://medium.com/@moumensoliman
+      
+ - name: Restaurant Review App
+  banner: https://i.imgur.com/r2QrkSb.png
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/vladel01/mws-restaurant-stage-1
+
+  description: |
+    A progressive web application that offer a list of restaurants with locations and other infos.
+    The user, even offline, can open previously visited pages, can add a restaurant as favorite or can even send a review for a restaurant.
+    
+  author: Vlad Alexandru Ghenade
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/vladel01/
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/vlad-alexandru-ghenade/
+
+  author_location: Comanesti, Romania
+  author_avatar: https://avatars3.githubusercontent.com/u/8360001     
