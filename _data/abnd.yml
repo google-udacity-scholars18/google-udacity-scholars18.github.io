@@ -325,4 +325,26 @@
   author_location: Alexandria , Egypt
   author_avatar: https://i.imgur.com/LLCmx9l.png
   
+- name: Book Inventory App
+  banner: https://i.imgur.com/hgvGErG.png
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/Weyinmik/BookInventoryApp
+  description: |
+    This is a combination of Project 8 and 9 of the Udacity Android Basic Nanodegree Programme by Google.This app help to keep track of books sold and manage the supply of books in a book store. It can also be modified to other goods.
+  
+  author: Esther Weyinmi Koloh
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/Weyinmik
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/esther-weyinmi-koloh-msc-463859151/
+    - title: Facebook
+      icon: facebook
+      url: https://www.facebook.com/esther.koloh
 
+  author_location: North Rhine-Westphalia , Germany
+  author_avatar: https://i.imgur.com/PmN0id3.jpg?1
