@@ -334,8 +334,8 @@
   description: |
     This is a combination of Project 8 and 9 of the Udacity Android Basic Nanodegree Programme by Google.This app help to keep track of books sold and manage the supply of books in a book store. It can also be modified to other goods.
   
- author: Esther Weyinmi Koloh
- author_links:
+  author: Esther Weyinmi Koloh
+  author_links:
     - title: GitHub
       icon: github
       url: https://github.com/Weyinmik
