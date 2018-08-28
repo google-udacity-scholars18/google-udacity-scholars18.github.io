@@ -398,3 +398,26 @@
     - title: Github Profile
       icon: github
       url: https://github.com/Scruffy21
+      
+      - name: Matching Game
+  banner: https://i.imgur.com/Pt8hbfF.png
+  links:
+    - title: Live Page
+      icon: web
+      url: https://ewastasiak.github.io/fend-project-memory-game-master/
+    - title: Github Repo
+      icon: github
+      url: https://github.com/ewastasiak/fend-project-memory-game-master
+  description: |
+    Match those cards. 
+    You know you want to! ( ͡° ͜ʖ ͡°)
+  author: Ewa Stasiak
+  author_avatar: https://avatars3.githubusercontent.com/u/18163763?s=400&u=0a3eb8c0bb1c885d59aa630fd136af53bf5c106f&v=4
+  author_location: Poland
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/ewastasiak
+    - title: Github Profile
+      icon: github
+      url: https://github.com/ewastasiak
