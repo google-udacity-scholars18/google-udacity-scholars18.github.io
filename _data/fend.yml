@@ -431,7 +431,7 @@
       icon: github
       url: https://github.com/bermartinv/js-map-react
   description: |
-     React App with Valencia monuments. Conect monuments with Google Maps and Wikiloc API.
+    React App with Valencia monuments. Connect monuments with Google Maps and Wikipedia API.
   author: Bernardo Martín
   author_avatar: https://es.gravatar.com/userimage/82616042/c825f0740ef80397b0daad0a36b285ca.jpg
   author_location: Valencia, Spain
@@ -445,3 +445,26 @@
     - title: Twitter Profile
       icon: twitter
       url: https://twitter.com/bermartinv2
+   
+- name: Places to Visit in London
+  banner: https://github.com/pikabe/neighbourhood-map/raw/Master/img/appLargeScreen.PNG
+  links:
+    - title: Live Page
+      icon: web
+      url: https://pikabe.github.io/neighbourhood-map
+    - title: Github Repo
+      icon: github
+      url: https://github.com/pikabe/neighbourhood-map
+  description: | 
+    This application was build using React and allows users to access information about five different locations in London using the foursquare API and google maps API. 
+  author: Gopika Bejoy
+  author_avatar: https://imgur.com/TY6ftfs
+  author_location: Darlington, UK
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/gopika-bejoy-b8753716a/
+    - title: Github
+      icon: github
+      url: https://github.com/pikabe
+
