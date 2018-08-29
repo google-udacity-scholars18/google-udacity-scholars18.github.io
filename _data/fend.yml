@@ -431,7 +431,7 @@
       icon: github
       url: https://github.com/bermartinv/js-map-react
   description: |
-     React App with Valencia monuments. Conect monuments with Google Maps and Wikiloc API.
+     React App with Valencia monuments. Conect monuments with Google Maps and Wikipedia API.
   author: Bernardo Martín
   author_avatar: https://es.gravatar.com/userimage/82616042/c825f0740ef80397b0daad0a36b285ca.jpg
   author_location: Valencia, Spain
