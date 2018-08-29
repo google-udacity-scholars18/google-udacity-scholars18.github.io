@@ -309,15 +309,15 @@
       icon: instagram
       url: https://www.instagram.com/mas_webdev/
    
-- name: Restaurant Review App
-  banner: 
+- name: MWS Restaurant App
+  banner: https://i.imgur.com/muQEDEq.png
   links:
     - title: Github
       icon: github
       url: https://github.com/moumen-soliman/mws-restaurant-stage-3
 
   description: |
-    Restaurant Review App built in PWA principles
+    Mobile Web Specialist Resturant App, Udacity Stage 3 project
     
   author: Moumen Soliman
   author_avatar: https://avatars3.githubusercontent.com/u/24474287?s=460&v=4
