@@ -387,3 +387,24 @@
     - title: Twitter
       icon: twitter
       url: https://twitter.com/javiexpo
+      
+- name: Eat - Restaurant Review
+  banner: https://github.com/tatiana-passarella/my-progressive-web-app/blob/master/offline_functionality.gif
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/tatiana-passarella/my-progressive-web-app
+  description: |
+    Eat is a web app to choose what you want, wherever you are!
+    
+  author: Tatiana Passarella
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/tatiana-passarella
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/tatianapassarella/
+   author_location: Rome, Italy
+  author_avatar: https://avatars1.githubusercontent.com/u/9866088?s=460&v=4
+      
