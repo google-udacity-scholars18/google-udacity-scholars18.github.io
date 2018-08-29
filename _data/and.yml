@@ -685,7 +685,7 @@
       url: https://www.linkedin.com/in/rauliviu/
       
       
- - name: Foodesto
+- name: Foodesto
   banner: https://i.imgur.com/pMFvBqs.png
   description: |
    Do you shop food products every day, every week? Do your friends bother you with the numbers of calories, the quality of the products?
@@ -695,7 +695,7 @@ Foodesto is based on a very simple principle. Users are required to scan food pr
 
   author: Nour Elislam SAIDI
   author_avatar: https://i.imgur.com/Q8zsayc.jpg
-  author_location: Paris, France (Constantine, Algeria)
+  author_location: Paris, France
   author_links:
     - title: GitHub
       icon: github
