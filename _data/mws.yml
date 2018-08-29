@@ -361,3 +361,29 @@
 
   author_location: Comanesti, Romania
   author_avatar: https://avatars3.githubusercontent.com/u/8360001    
+  
+- name: Restaurant Review PWA App
+  banner: https://i.imgur.com/eX1VQIN.jpg
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/javiexpo/mws-restaurant-stage-1
+
+  description: |
+    The Restaurant Reviews project, is a mobile-ready PWA application, that allow the user look for a restaurant nearby; 
+    you can filter restaurants by Neighborhoods and Cuisines and also locate the restaurants in a google maps.
+    After you find your choice, you can navigate to the details of a restaurant, where you can find more information like 
+    Opening hours, ratings and reviews.
+    
+  author: Javier Exposito
+  author_location: Barcelona, Spain
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/javiexpo
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/javiexpo/
+    - title: Twitter
+      icon: twitter
+      url: https://twitter.com/javiexpo
