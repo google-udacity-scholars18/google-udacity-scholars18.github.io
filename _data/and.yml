@@ -688,10 +688,10 @@
 - name: Foodesto
   banner: https://i.imgur.com/pMFvBqs.png
   description: |
-   Do you shop food products every day, every week? Do your friends bother you with the numbers of calories, the quality of the products?
-Foodesto is an application that can scan a multitude of food products and thus highlight their impact on health.
-By giving all the details (Calories, sugars, additives ... etc).
-Foodesto is based on a very simple principle. Users are required to scan food products of any type, then the application will perform an assessment  
+    Do you shop food products every day, every week? Do your friends bother you with the numbers of calories, the quality of the products?
+    Foodesto is an application that can scan a multitude of food products and thus highlight their impact on health.
+    By giving all the details (Calories, sugars, additives ... etc).
+    Foodesto is based on a very simple principle. Users are required to scan food products of any type, then the application will perform an assessment  
 
   author: Nour Elislam SAIDI
   author_avatar: https://i.imgur.com/Q8zsayc.jpg
