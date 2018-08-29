@@ -683,3 +683,23 @@
     - title: LinkedIn
       icon: linkedin
       url: https://www.linkedin.com/in/rauliviu/
+      
+- name: Scene Teleprompter
+  banner: https://i.imgur.com/4ysDOKb.png
+  links:
+    - title: Play Store
+      icon: playstore
+      url: https://play.google.com/store/apps/details?id=com.bilal.teleprompter
+  description: Scene Teleprompter helps you while creating a video/scene in front of a camera by showing you the script you should read (automatically-scrolling due to specified speed) to avoid from miss spelling mistakes, which in-turn will save your time reshooting the video again and again.
+  author: Bilal Hairab
+  author_avatar: https://i.imgur.com/h8QeVm8.jpg
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/BilalHairab
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/bilal-hairab/
+    - title: Facebook
+      icon: facebook
+      url: https://www.facebook.com/bilal.hb29/
