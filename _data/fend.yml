@@ -491,4 +491,31 @@
     - title: Github Profile
       icon: github
       url: https://github.com/kes2401
+      
+- name: Local Sightseeing Map
+  banner: https://imgur.com/a/oBjGufV
+  links:
+    - title: Live Page
+      icon: web
+      url: https://mechaphysis.github.io/fend-project-neightborhood-map-react/
+    - title: Github Repo
+      icon: github
+      url: https://github.com/mechaphysis/fend-project-neightborhood-map-react
+  description: |
+    A Web App for a local sightseeing map built from scratch using React, Google API and FourSquare API.
+    User is provided with points of interest in Vigo area as interactive markers that show unique information and pictures.
+  author: Esperanza Natalia González
+  author_avatar: https://avatars1.githubusercontent.com/u/38734470?s=460&v=4
+  author_location: Vigo, Spain
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: www.linkedin.com/in/esperanza-natalia
+    - title: Github
+      icon: github
+      url: https://github.com/mechaphysis
+    - title: Twitter Profile
+      icon: twitter
+      url: https://twitter.com/mechaphysis
+
 
