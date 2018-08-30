@@ -683,7 +683,7 @@
     - title: LinkedIn
       icon: linkedin
       url: https://www.linkedin.com/in/rauliviu/
-      
+
 - name: Scene Teleprompter
   banner: https://i.imgur.com/4ysDOKb.png
   links:
@@ -703,3 +703,17 @@
     - title: Facebook
       icon: facebook
       url: https://www.facebook.com/bilal.hb29/
+      
+- name: MessageMe
+  banner: https://i.imgur.com/CVuzI9O.png
+  links:
+    - title: Play Store
+      icon: playstore
+      url: https://play.google.com/store/apps/details?id=com.sealstudios.messageme
+  description: MessageMe is a  messaging application built on firebase
+  author: Martin Seal
+  author_location: Birmingham UK
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/martin-seal-043a6878
