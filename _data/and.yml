@@ -687,6 +687,10 @@
       
 - name: Foodesto
   banner: https://i.imgur.com/pMFvBqs.png
+  links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/IslamBesto/Foodesto
   description: |
     Do you shop food products every day, every week? Do your friends bother you with the numbers of calories, the quality of the products?
     Foodesto is an application that can scan a multitude of food products and thus highlight their impact on health.
