@@ -684,16 +684,16 @@
       icon: linkedin
       url: https://www.linkedin.com/in/rauliviu/
       
-- name MessageMe
-  banner https://imgur.com/CVuzI9O
-  links
-	  - title Play Store
-	    icon https://github.com/google-udacity-scholars18/google-udacity-scholars18.github.io/blob/master/assets/Google_play_icon.png
-	    url https://play.google.com/store/apps/details?id=com.sealstudios.messageme
-  description MessageMe is a  messaging application built on firebase
-  author Martin Seal
-  author_location Birmingham UK
-  author_links
-	  - title LinkedIn
-	    icon linkedin
-	    url www.linkedin.com/in/martin-seal-043a6878
+- name: MessageMe
+  banner: https://i.imgur.com/CVuzI9O.png
+  links:
+    - title: Play Store
+      icon: playstore
+      url: https://play.google.com/store/apps/details?id=com.sealstudios.messageme
+  description: MessageMe is a  messaging application built on firebase
+  author: Martin Seal
+  author_location: Birmingham UK
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: www.linkedin.com/in/martin-seal-043a6878
