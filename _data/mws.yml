@@ -290,7 +290,7 @@
       url: https://github.com/mas-designs/mws-restaurant-stage-1
 
   description: |
-    Restaurant Review App built in PWA principles
+    This is a Restaurant Review App that has been built on PWA principles within the Udacity Mobile Web Specialist course.
     
   author: Michael Stadler
   author_avatar: https://avatars3.githubusercontent.com/u/24718174
@@ -308,16 +308,16 @@
     - title: Instagram
       icon: instagram
       url: https://www.instagram.com/mas_webdev/
-
-- name: Restaurant Review App
-  banner: https://i.imgur.com/LR6sAfK.png
+   
+- name: MWS Restaurant App
+  banner: https://i.imgur.com/4HVWZoE.jpg
   links:
     - title: Github
       icon: github
       url: https://github.com/moumen-soliman/mws-restaurant-stage-3
 
   description: |
-    Restaurant Review App built in PWA principles
+    Mobile Web Specialist Resturant App, Udacity Stage 3 project
     
   author: Moumen Soliman
   author_avatar: https://avatars3.githubusercontent.com/u/24474287?s=460&v=4
@@ -338,3 +338,138 @@
     - title: Medium
       icon: medium
       url: https://medium.com/@moumensoliman
+
+- name: RestaurantApp
+  banner: https://i.imgur.com/r2QrkSb.png
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/vladel01/mws-restaurant-stage-1
+
+  description: |
+    A progressive web application that offer a list of restaurants with locations and other infos.
+    The user, even offline, can open previously visited pages, can add a restaurant as favorite or can even send a review for a restaurant.
+    
+  author: Vlad Alexandru Ghenade
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/vladel01/
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/vlad-alexandru-ghenade/
+
+  author_location: Comanesti, Romania
+  author_avatar: https://avatars3.githubusercontent.com/u/8360001    
+  
+- name: Restaurant Review PWA App
+  banner: https://i.imgur.com/eX1VQIN.jpg
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/javiexpo/mws-restaurant-stage-1
+
+  description: |
+    The Restaurant Reviews project, is a mobile-ready PWA application, that allow the user look for a restaurant nearby; 
+    you can filter restaurants by Neighborhoods and Cuisines and also locate the restaurants in a google maps.
+    After you find your choice, you can navigate to the details of a restaurant, where you can find more information like 
+    Opening hours, ratings and reviews.
+    
+  author: Javier Exposito
+  author_location: Barcelona, Spain
+  author_avatar: https://avatars3.githubusercontent.com/u/799030?s=460&v=4
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/javiexpo
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/javiexpo/
+    - title: Twitter
+      icon: twitter
+      url: https://twitter.com/javiexpo
+      
+- name: Eat - Restaurant Review
+  banner: https://i.imgur.com/A7VL0Ki.jpg
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/tatiana-passarella/my-progressive-web-app
+  description: |
+    Eat is a web app to choose what you want, wherever you are!
+    
+  author: Tatiana Passarella
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/tatiana-passarella
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/tatianapassarella/
+  author_location: Rome, Italy
+  author_avatar: https://avatars1.githubusercontent.com/u/9866088?s=460&v=4
+      
+- name: Restaurant Review App
+  banner: https://i.imgur.com/IxQ3uPP.png
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/red17electro/mws-restaurant
+      
+  description: |
+    A Restaurant Reviews Project, which I implemented for Udacity Web Specialist Nanodegree.
+    
+  author: Server Khalilov
+  author_avatar: https://avatars2.githubusercontent.com/u/16454623?s=460&v=4
+  author_location: Kaiserslautern, Germany
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/red17electro
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/serverkhalilov/
+    - title: Instagram
+      icon: instagram
+      url: https://www.instagram.com/red17electro/
+
+- name: Restaurant Reviews
+  banner: https://i.imgur.com/XkJCC0I.jpg
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/R-H-T/mws-restaurant-stage-1/
+      
+  description: |
+    Restaurant Reviews is a fully Responsive, Accessible, Progressive Web Application (PWA)
+    optimized for speed and performance with a true Offline-First experience.
+
+  author: Roberth Hansson-Tornéus
+  author_avatar: https://avatars1.githubusercontent.com/u/17800550?s=460&v=4
+  author_location: Shenzhen, China
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/R-H-T
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/roberth-hansson-tornéus
+    - title: Twitter
+      icon: twitter
+      url: https://twitter.com/iEngineerIT
+
+- name: Restaurant Reviews PWA
+  banner: https://i.imgur.com/G3b6YKE.png
+  links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/luca-a/MWS-RestaurantReviews
+  description: |
+    A progressive web app created to be performant and accessibile by every type of user.
+
+  author: Luca Arato
+  author_location: Turin, Italy
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/luca-arato

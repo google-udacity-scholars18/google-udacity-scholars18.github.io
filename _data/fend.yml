@@ -398,3 +398,97 @@
     - title: Github Profile
       icon: github
       url: https://github.com/Scruffy21
+      
+- name: Matching Game
+  banner: https://i.imgur.com/Pt8hbfF.png
+  links:
+    - title: Live Page
+      icon: web
+      url: https://ewastasiak.github.io/fend-project-memory-game-master/
+    - title: Github Repo
+      icon: github
+      url: https://github.com/ewastasiak/fend-project-memory-game-master
+  description: |
+    Match those cards in pairs.	You know you want to.
+  author: Ewa Stasiak
+  author_avatar: https://avatars1.githubusercontent.com/u/18163763?s=460&v=4
+  author_location: Poland
+  author_links:
+    - title: Linked In
+      icon: linkedin
+      url: https://www.linkedin.com/in/ewastasiak/
+    - title: Github Profile
+      icon: github
+      url: https://github.com/ewastasiak
+
+- name: Valencia monuments
+  banner: https://i.imgur.com/9B89w1N.png
+  links:
+    - title: Live Page
+      icon: web
+      url: https://github.com/bermartinv/js-map-react
+    - title: Github Repo
+      icon: github
+      url: https://github.com/bermartinv/js-map-react
+  description: |
+    React App with Valencia monuments. Connect monuments with Google Maps and Wikipedia API.
+  author: Bernardo Martín
+  author_avatar: https://es.gravatar.com/userimage/82616042/c825f0740ef80397b0daad0a36b285ca.jpg
+  author_location: Valencia, Spain
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/bernardo-martin/
+    - title: Github
+      icon: github
+      url: https://github.com/bermartinv
+    - title: Twitter Profile
+      icon: twitter
+      url: https://twitter.com/bermartinv2
+   
+- name: Places to Visit in London
+  banner: https://github.com/pikabe/neighbourhood-map/raw/Master/img/appLargeScreen.PNG
+  links:
+    - title: Live Page
+      icon: web
+      url: https://pikabe.github.io/neighbourhood-map
+    - title: Github Repo
+      icon: github
+      url: https://github.com/pikabe/neighbourhood-map
+  description: | 
+    This application was build using React and allows users to access information about five different locations in London using the foursquare API and google maps API. 
+  author: Gopika Bejoy
+  author_avatar: https://imgur.com/TY6ftfs
+  author_location: Darlington, UK
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/gopika-bejoy-b8753716a/
+    - title: Github
+      icon: github
+      url: https://github.com/pikabe
+      
+- name: Great Places of Dublin
+  banner: https://i.imgur.com/VtlYuCU.png
+  links:
+    - title: Live Page
+      icon: web
+      url: https://kes2401.github.io/neighbourhood-map/
+    - title: Github Repo
+      icon: github
+      url: https://github.com/kes2401/neighbourhood-map
+  description: |
+    A single-page application built with React featuring an interactive map of Dublin with 
+    marked locations of interest. The application uses the Google Maps JavaScript API for map 
+    services and the FourSquare API for fetching location data.
+  author: Keith Scully
+  author_avatar: https://i.imgur.com/iCkHPnU.jpg
+  author_location: Dublin, Ireland
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/keith-scully/
+    - title: Github Profile
+      icon: github
+      url: https://github.com/kes2401
+
