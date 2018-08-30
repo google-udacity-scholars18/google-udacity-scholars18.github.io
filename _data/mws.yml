@@ -197,8 +197,7 @@
   links:
     - title: GitHub
       icon: github
-      url: https://github.com/RanaEmad/mws-restaurant-stage-1
-    
+      url: https://github.com/RanaEmad/mws-restaurant-stage-1    
   description: |
     Through this project you can view restaurants, add them to favorites and add reviews to them. The project has been enhanced to be more accessible, available for offline usage using service workers and responsive for all device sizes.
 
@@ -438,8 +437,7 @@
   links:
     - title: Github
       icon: github
-      url: https://github.com/R-H-T/mws-restaurant-stage-1/
-      
+      url: https://github.com/R-H-T/mws-restaurant-stage-1/      
   description: |
     Restaurant Reviews is a fully Responsive, Accessible, Progressive Web Application (PWA)
     optimized for speed and performance with a true Offline-First experience.
@@ -457,3 +455,15 @@
     - title: Twitter
       icon: twitter
       url: https://twitter.com/iEngineerIT
+      
+- name: Restaurant Reviews PWA
+  banner: https://i.imgur.com/G3b6YKE.png
+  links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/luca-a/MWS-RestaurantReviews
+  description: |
+    A progressive web app created to be performant and accessibile by every type of user.
+  
+  author: Luca Arato
+  author_location: Turin, Italy
