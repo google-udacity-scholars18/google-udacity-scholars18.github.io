@@ -473,3 +473,23 @@
     - title: LinkedIn
       icon: linkedin
       url: https://www.linkedin.com/in/luca-arato
+
+- name: Restaurant Reviews
+  banner: https://i.imgur.com/ABLVlv9.png
+  links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/AliMahmoud7/restaurant-reviews-mws
+  description: |
+    A Restaurant Reviews is a Three Stage Project - For Mobile Web Specialist Certification Course.
+
+  author: Ali Mahmoud
+  author_avatar: https://media.licdn.com/dms/image/C5603AQEL1jeceCuNKA/profile-displayphoto-shrink_200_200/0?e=1541030400&v=beta&t=PWS22JCpom4oAl1y1lGQjDvEHQeFgwCUsazmsON3TnI
+  author_location: Minya, Egypt
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://linkedin.com/in/alimahmoud7
+    - title: GitHub
+      icon: github
+      url: https://github.com/AliMahmoud7
