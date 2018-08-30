@@ -683,7 +683,7 @@
     - title: LinkedIn
       icon: linkedin
       url: https://www.linkedin.com/in/rauliviu/
-
+      
 - name: Scene Teleprompter
   banner: https://i.imgur.com/4ysDOKb.png
   links:
@@ -717,3 +717,26 @@
     - title: LinkedIn
       icon: linkedin
       url: https://www.linkedin.com/in/martin-seal-043a6878
+      
+- name: Foodesto
+  banner: https://i.imgur.com/pMFvBqs.png
+  links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/IslamBesto/Foodesto
+  description: |
+    Do you shop food products every day, every week? Do your friends bother you with the numbers of calories, the quality of the products?
+    Foodesto is an application that can scan a multitude of food products and thus highlight their impact on health.
+    By giving all the details (Calories, sugars, additives ... etc).
+    Foodesto is based on a very simple principle. Users are required to scan food products of any type, then the application will perform an assessment  
+
+  author: Nour Elislam SAIDI
+  author_avatar: https://i.imgur.com/Q8zsayc.jpg
+  author_location: Paris, France
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/IslamBesto
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/noursaidi/
