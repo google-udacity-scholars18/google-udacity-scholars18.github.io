@@ -457,3 +457,17 @@
     - title: Twitter
       icon: twitter
       url: https://twitter.com/iEngineerIT
+- name: Restaurant Reviews PWA
+  banner: https://i.imgur.com/G3b6YKE.png
+  links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/luca-a/MWS-RestaurantReviews
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/luca-arato
+  description: |
+    A progressive web app created to be performant and accessibile by every type of user.
+
+  author: Luca Arato
+  author_location: Turin, Italy
