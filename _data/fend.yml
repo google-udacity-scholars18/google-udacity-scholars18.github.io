@@ -504,7 +504,7 @@
   description: |
     A Web App for a local sightseeing map built from scratch using React, Google API and FourSquare API.
     User is provided with points of interest in Vigo area as interactive markers that show unique information and pictures.
-  author: Esperanza Natalia González
+  author: Esperanza N. González
   author_avatar: https://avatars1.githubusercontent.com/u/38734470?s=460&v=4
   author_location: Vigo, Spain
   author_links:
