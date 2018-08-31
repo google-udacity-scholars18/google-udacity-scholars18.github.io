@@ -740,3 +740,23 @@
     - title: LinkedIn
       icon: linkedin
       url: https://www.linkedin.com/in/noursaidi/
+      
+- name: Take My Order
+  banner: https://i.imgur.com/1pqcsUw.png
+  links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/TheFedex87/Capstone_Stage2
+  description: Boring for waiting a waiter when you sit in a restaurant? Take My Order is an application which allows a 
+    customer to take orders directly from his Android device. It allows to view the restaurant's menu, select desidered food, 
+    save foods into favourites, call a waiter from his device and submit the order, paying with an online service.
+  author: Federico Creti
+  author_location: Città di Castello, PG, Italy
+  author_avatar: https://i.imgur.com/SQzTRya.jpeg
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/federico-creti-89aa7780
+    - title: GitHub
+      icon: github
+      url: https://github.com/TheFedex87 
