@@ -348,3 +348,23 @@
 
   author_location: North Rhine-Westphalia , Germany
   author_avatar: https://i.imgur.com/PmN0id3.jpg?1
+
+- name: Boy Bands Quiz
+  banner: https://imgur.com/a/brDphU7
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/dianavaleeva/boy-bands
+  description: |
+    This is not the most complicated one, buy it's fun to recall something about Boy Bands which were so popular in the 90's.
+
+  author: Diana Valeyeva
+  author_avatar: https://imgur.com/a/q8eQKK2
+  author_location: Moscow, Russia
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/dianavaleyeva/
+    - title: Facebook
+      icon: facebook
+      url: https://www.facebook.com/valeyeva.diana
