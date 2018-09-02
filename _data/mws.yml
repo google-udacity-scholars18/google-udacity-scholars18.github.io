@@ -505,6 +505,8 @@
     This app uses service worker for working offline, IndexedDB to store some info on the client and backgorund sync for sending reviews while offline. It is fully responsible and progressive.
     
   author: svmi3195
+  author_avatar: https://avatars0.githubusercontent.com/u/16000188?s=460&v=4
+  author_location: Vilnius, Lithuania
   author_links:
     - title: GitHub
       icon: github
@@ -513,5 +515,3 @@
       icon: linkedin
       url: https://www.linkedin.com/in/svmi-02004019/
 
-  author_location: Vilnius, Lithuania
-author_avatar: https://avatars0.githubusercontent.com/u/16000188?s=460&v=4
