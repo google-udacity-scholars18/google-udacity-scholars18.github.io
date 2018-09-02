@@ -493,3 +493,25 @@
     - title: GitHub
       icon: github
       url: https://github.com/AliMahmoud7
+
+- name: Restaurant Reviews
+  banner: https://i.imgur.com/5zyKxYT.png
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/svmi3195/mws-restaurant-reviews
+  description: |
+    An application which allows user to view list of restaurants and sort them by cuisine or location, view restaurant details with reviews, add their own review and favourite a restaurant.
+    This app uses service worker for working offline, IndexedDB to store some info on the client and backgorund sync for sending reviews while offline. It is fully responsible and progressive.
+    
+  author: svmi3195
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/svmi3195/
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/svmi-02004019/
+
+  author_location: Vilnius, Lithuania
+author_avatar: https://avatars0.githubusercontent.com/u/16000188?s=460&v=4
