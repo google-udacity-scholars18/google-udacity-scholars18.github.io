@@ -767,9 +767,7 @@
     - title: GitHub
       icon: github
       url: https://github.com/ramona-cristea/petcare
-  description: PetCare application will help you to better take care of your fur babies. You could enter information about your pets, 
-  details about them like gender, breed, type, weight, age, if they are neutered/spayed, if they have any health issues. 
-  You could also search for veterinary offices nearby and call to a veterinary office in order to make an appointment. 
+  description: PetCare application will help you to better take care of your fur babies. You could enter information about your pets, details about them like gender, breed, type, weight, age, if they are neutered/spayed, if they have any health issues. You could also search for veterinary offices nearby and call to a veterinary office in order to make an appointment. 
   author: Ramona Cristea
   author_location: Galati, Romania
   author_avatar: https://imgur.com/a/HdvDhLq
