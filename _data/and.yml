@@ -760,3 +760,21 @@
     - title: GitHub
       icon: github
       url: https://github.com/TheFedex87 
+      
+- name: PetCare
+  banner: https://i.imgur.com/UGt88hR.png
+  links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/ramona-cristea/petcare
+  description: PetCare application will help you to better take care of your fur babies. You could enter information about your pets, details about them like gender, breed, type, weight, age, if they are neutered/spayed, if they have any health issues. You could also search for veterinary offices nearby and call to a veterinary office in order to make an appointment. 
+  author: Ramona Cristea
+  author_location: Galati, Romania
+  author_avatar: https://i.imgur.com/oJgXxMN.jpg
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/ramona-cristea/
+    - title: GitHub
+      icon: github
+      url: https://github.com/ramona-cristea
