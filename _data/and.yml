@@ -784,7 +784,7 @@
   links:
     - title: Play Store
       icon: playstore
-      url: https://play.google.com/store/apps/details?id=org.gratitude
+      url: https://play.google.com/apps/testing/org.gratitude
     - title: GitHub
       icon: github
       url: https://github.com/justodepp/Capstone-Project
