@@ -778,3 +778,32 @@
     - title: GitHub
       icon: github
       url: https://github.com/ramona-cristea
+      
+- name: Gratitude
+  banner: https://imgur.com/9MkmZLP
+  links:
+    - title: Play Store
+      icon: playstore
+      url: https://play.google.com/store/apps/details?id=org.gratitude
+    - title: GitHub
+      icon: github
+      url: https://github.com/justodepp/Capstone-Project
+  description: |
+    Gratitude, “the quality of being thankful; readiness to show appreciation for and to return
+    kindness.”, it’s a charity app.
+    Doesn’t solve any problem, unfortunately.
+    His purpose it’s to sensibilize people through informations about organizations and projects.
+    Thanks to (GlobalGiving)[https://www.globalgiving.org/]
+    Find the project you care about and help other, giving help receiving gratitude.
+    **Be Gratitude!**
+    
+  author: Gianni Andrea Cavalli
+  author_avatar: https://i.imgur.com/ka5sjM7.png
+  author_location: Milan, Italy
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/justodepp
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/gianniandreacavalli/
