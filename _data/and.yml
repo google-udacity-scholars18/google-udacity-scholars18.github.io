@@ -782,9 +782,6 @@
 - name: Gratitude
   banner: https://i.imgur.com/9MkmZLP.jpg
   links:
-    - title: Play Store
-      icon: playstore
-      url: https://play.google.com/apps/testing/org.gratitude
     - title: GitHub
       icon: github
       url: https://github.com/justodepp/Capstone-Project
