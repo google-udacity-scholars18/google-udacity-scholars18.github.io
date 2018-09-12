@@ -710,7 +710,9 @@
     - title: Play Store
       icon: playstore
       url: https://play.google.com/store/apps/details?id=com.sealstudios.messageme
-  description: MessageMe is a  messaging application built on firebase
+  description: |
+    MessageMe is a  messaging application built on firebase.
+    Create your profile and MessageMe will find your friends allowing you to send messages and pictures to each other with delivery reports.
   author: Martin Seal
   author_location: Birmingham UK
   author_links:
