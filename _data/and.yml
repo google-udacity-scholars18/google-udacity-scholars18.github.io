@@ -208,8 +208,14 @@
       url: https://github.com/vidbregar
 
 - name: Trakr
-  banner: https://i.imgur.com/c2aOQf8.png
+  banner: https://i.imgur.com/nBBJCHa.png 
   links:
+    - title: Play Store
+      icon: playstore
+      url: https://play.google.com/store/apps/details?id=com.awolity.trakr.free
+    - title: Website
+      icon: web
+      url: https://trakrapp.github.io/
     - title: Github
       icon: github
       url: https://github.com/vokod/Trakr
