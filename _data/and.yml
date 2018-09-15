@@ -815,3 +815,29 @@
     - title: LinkedIn
       icon: linkedin
       url: https://www.linkedin.com/in/gianniandreacavalli/
+
+- name: Sardinia Beaches
+  banner: https://imgur.com/a/YMLhrQX
+  links:
+    - title: Play Store
+      icon: playstore
+      url: https://play.google.com/store/apps/details?id=com.agostinocoppolino.spiaggesardegna.free
+  description: |
+    Are you passionate about the sea? Are you in Sardinia? Discover all its stunning beaches, from the best known to the hidden ones. Search by name, location or directly exploring the map. Read the reviews and look at the pictures, mark the beaches you have visited and list them among your favourite ones. Pick your destination and make a list of the beaches you would like to visit.
+  
+  author: Agostino Coppolino
+  author_avatar: https://imgur.com/a/BLIre4O
+  author_location: Milazzo, ME, Italy
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/agostino-coppolino-71a381119/
+    - title: Github
+      icon: github
+      url: https://github.com/agos74
+    - title: Facebook
+      icon: facebook
+      url: https://www.facebook.com/agostino.coppolino
+		- title: Google+
+      icon: googleplus
+      url: https://plus.google.com/u/0/+AgostinoCoppolino
