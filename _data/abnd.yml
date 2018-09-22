@@ -368,3 +368,32 @@
     - title: Facebook
       icon: facebook
       url: https://www.facebook.com/valeyeva.diana
+
+- name: The Guardian View
+  banner: https://i.imgur.com/qb8TRKK.gif
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/r4dixx/TheGuardianView
+  description: |
+    Simple and straight-forward news app based on the editorial section of The Guardian (https://www.theguardian.com/profile/editorial). Designed with a great focus on the latest trends in Material Design this year.
+
+  author: Amaël Sikel (r4dixx)
+  author_avatar: https://i.imgur.com/6MWPa90.jpg
+  author_location: Paris, France
+  author_links:
+    - title: Github
+      icon: github
+      url: https://github.com/r4dixx
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/r4dixx/
+    - title: Twitter
+      icon: twitter
+      url: https://twitter.com/r4dixx
+    - title: Mastodon
+      icon: mastodon
+      url: https://mastodon.social/@amasikel
+    - title: Medium
+      icon: medium
+      url: https://medium.com/@r4dixx
