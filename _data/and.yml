@@ -842,7 +842,7 @@
       icon: googleplus
       url: https://plus.google.com/u/0/+AgostinoCoppolino
 
-name: Route Tracker
+- name: Route Tracker
   banner: https://i.imgur.com/QQwgD4a.jpg
   links:
     - title: Play Store
