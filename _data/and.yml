@@ -841,3 +841,22 @@
     - title: Google+
       icon: googleplus
       url: https://plus.google.com/u/0/+AgostinoCoppolino
+
+- name: Route Tracker
+  banner: https://i.imgur.com/QQwgD4a.jpg
+  links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/VassiliKurman/RouteTracker
+  description: |
+    Route Tracker app tracks the routes of user by using on device GPS. This app is created for travelers, hikers and all individuals who want to keep record of their outdoor activities. Main features of the app: saves route information into database, displays list of user routes previously saved into database, displays selected route on the Map, displays selected route summary on the screen, user can share his/her routes with friends.
+  author: Vassili Kurman
+  author_avatar: https://i.imgur.com/X9RODdG.jpg
+  author_location: Southampton, United Kingdom
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/VassiliKurman
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/vassilikurman/
