@@ -860,3 +860,24 @@
     - title: LinkedIn
       icon: linkedin
       url: https://www.linkedin.com/in/vassilikurman/
+      
+- name: Simply for Reddit
+  banner: https://i.imgur.com/iHytUdB.png
+  links:
+    - title: Play Store
+      icon: playstore
+      url: https://play.google.com/store/apps/details?id=com.andarb.simplyforreddit.paid
+    - title: GitHub
+      icon: github
+      url: https://github.com/Andarb/SimplyForReddit
+  description: A lightweight app with a simple UI for browsing Reddit. Show posts of a selected subreddit. Or display detailed information about a specific post, including images, GIFs and top comments.
+  author: Andrius Narbuntas
+  author_location: London, United Kingdom
+  author_avatar: https://i.imgur.com/8wdMj9s.jpg
+  author_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/andrius-narbuntas/
+    - title: GitHub
+      icon: github
+      url: https://github.com/Andarb
