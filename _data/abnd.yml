@@ -307,7 +307,7 @@
       icon: youtube
       url: https://youtu.be/YtM6UKIHNk8 
   description: |
-    It is a medicine inventory app for users to add, update and remove inventory. 
+    It is a medicine inventory app for users to add, update and remove medicines. 
     You can track the quantity of the available medicines and call the supplier when you want to order any medicine.
     
   author: Marwa Eltayeb
@@ -322,7 +322,7 @@
       icon: facebook
       url: https://www.facebook.com/Marwa.Eltayeb.MS
 
-  author_location: Alexandria , Egypt
+  author_location: Alexandria, Egypt
   author_avatar: https://i.imgur.com/LLCmx9l.png
   
 - name: Book Inventory App
