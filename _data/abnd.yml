@@ -407,10 +407,10 @@
     - title: Play Store
       icon: playstore
       url: https://play.google.com/store/apps/details?id=ro.serbanegrea.childradiotuner.pro
-     - title: website
+    - title: website
       icon: web
       url: https://serbanegrea.ro/Child Radio Tuner/
-  description: 
+  description: |
     In sore since 23 June 2018. Production 24 August 2018.
     Listen radio stations dedicated to children, free. Play with phone screen off: kids music, lullabies, stories, plays and shows from around the world!
     Sort and search by name, language and mood (play, sleep, learn). Add to favorites. Rate stations.
@@ -437,7 +437,7 @@
   author_links:
     - title: GitHub
       icon: github
-      url: https://github.com/rareserban (this project and some other are private thought)
+      url: https://github.com/rareserban
     - title: LinkedIn
       icon: linkedin
       url:  https://www.linkedin.com/in/rareserban
