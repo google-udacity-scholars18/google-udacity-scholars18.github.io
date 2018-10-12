@@ -397,3 +397,47 @@
     - title: Medium
       icon: medium
       url: https://medium.com/@r4dixx
+      
+- name: Child Radio Tuner 
+  banner: https://i.imgur.com/FUpFkXV.jpg
+  links:
+    - title: Play Store
+      icon: playstore
+      url: https://play.google.com/store/apps/details?id=ro.serbanegrea.childradiotuner
+    - title: Play Store
+      icon: playstore
+      url: https://play.google.com/store/apps/details?id=ro.serbanegrea.childradiotuner.pro
+    - title: website
+      icon: web
+      url: https://serbanegrea.ro/Child Radio Tuner/
+  description: |
+    In sore since 23 June 2018. Production 24 August 2018.
+    Listen radio stations dedicated to children, free. Play with phone screen off: kids music, lullabies, stories, plays and shows from around the world!
+    Sort and search by name, language and mood (play, sleep, learn). Add to favorites. Rate stations.
+
+    We are parents too. So, we choose the stations and do the things as one.
+    Simple yet friendly, Child Radio Tuner is updated live, with the best kids stations one can find, without bothering you to update the application.
+
+    For children of all ages (Russia: 3+) and the whole family.
+    Available in: English, German, French, Arab, Italian, Spanish, Portuguese, German, Czech, Slovak, Russian, Romanian.
+
+    The pro version got ads removed, and ads the facility to skip next and previous from notification.
+    
+    Technical details (some):
+      From API 16, dedicated tablet and landscape layouts.
+      Firebase integration (authorisation, database, storage, ads, crashalitics, ads, in app messaging, performance).
+      Custom: non-swipable pager, fragmentPagerAdapter, spaces decoration, colum numbers, arabic font.
+      Recyclerview with search and interfaces.
+      Exoplayer based media player service.
+      GDPR compliant, AdMob with banner and interstitial.
+      Rating system with concurent transaction.
+           
+  author: Rares Serban
+  author_location: Bucharest, Romania
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/rareserban
+    - title: LinkedIn
+      icon: linkedin
+      url:  https://www.linkedin.com/in/rareserban
