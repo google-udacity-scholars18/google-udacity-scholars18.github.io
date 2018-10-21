@@ -397,3 +397,24 @@
     - title: Medium
       icon: medium
       url: https://medium.com/@r4dixx
+
+- name: Tech Inventory
+  banner: https://i.imgur.com/hia6wnS.jpg
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/AmrDeveloper/Android/tree/master/Basics%20Nanodegree/Inventory
+  description: |
+    An Tech Product Inventory Application with SQLite database to save product name, image, description, quantity, supplier information
+    
+  author: AmrDeveloper
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/AmrDeveloper
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/AmrDeveloper
+    - title: Facebook
+      icon: facebook
+      url: https://www.facebook.com/AmrDeveloper
