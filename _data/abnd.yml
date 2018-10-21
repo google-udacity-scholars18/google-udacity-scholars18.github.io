@@ -397,3 +397,31 @@
     - title: Medium
       icon: medium
       url: https://medium.com/@r4dixx
+      
+- name: Music Palyer App
+  banner: https://i.imgur.com/DgopKX4.png
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/Marwa-Eltayeb/MusicPalyer
+    - title: Youtube
+      icon: youtube
+      url: https://www.youtube.com/watch?v=3l721pw6ujE&feature=youtu.be
+  description: |
+    A music player application in which there are singers and each one has many songs that users can listen to.
+    You can play, stop, or pause the song. You can Jump forward or backward through the song.
+    
+  author: Marwa Eltayeb
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/Marwa-Eltayeb/MusicPalyer
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/marwa-eltayeb/
+    - title: Facebook
+      icon: facebook
+      url: https://www.facebook.com/Marwa.Eltayeb.MS
+
+  author_location: Alexandria, Egypt
+  author_avatar: https://i.imgur.com/LLCmx9l.png
