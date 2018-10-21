@@ -252,31 +252,6 @@
     - title: Medium
       icon: medium
       url: https://medium.com/@greta.klimaite
-
-- name: Quiz App
-  banner: https://i.imgur.com/RXMjmfG.jpg
-  links:
-    - title: Github
-      icon: github
-      url: https://github.com/AmrDeveloper/Android/tree/master/Basics%20Nanodegree/Educational%20App
-  description: |
-    An app for generate infinite number of Random math questions, every level is harder than previous level 
-    , enjoy and play for ever.
-    
-  author: AmrDeveloper
-  author_links:
-    - title: GitHub
-      icon: github
-      url: https://github.com/AmrDeveloper
-    - title: LinkedIn
-      icon: linkedin
-      url: https://www.linkedin.com/in/AmrDeveloper
-    - title: Facebook
-      icon: facebook
-      url: https://www.facebook.com/AmrDeveloper
-
-  author_location: Alexandria , Egypt
-  author_avatar: https://i.imgur.com/ePmn1uj.jpg
   
 - name: Different Bologna Tour Guide App
   banner: https://i.imgur.com/s2JrQM9.png
@@ -397,6 +372,27 @@
     - title: Medium
       icon: medium
       url: https://medium.com/@r4dixx
+
+- name: Tech Inventory
+  banner: https://i.imgur.com/hia6wnS.jpg
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/AmrDeveloper/Android/tree/master/Basics%20Nanodegree/Inventory
+  description: |
+    An Tech Product Inventory Application with SQLite database to save product name, image, description, quantity, supplier information
+    
+  author: AmrDeveloper
+  author_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/AmrDeveloper
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/AmrDeveloper
+    - title: Facebook
+      icon: facebook
+      url: https://www.facebook.com/AmrDeveloper
       
 - name: Music Palyer App
   banner: https://i.imgur.com/DgopKX4.png
